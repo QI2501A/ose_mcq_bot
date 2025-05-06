@@ -1,0 +1,3680 @@
+Q: Which of the following is a method for securing mobile devices?
+A: Installing a VPN
+B: Enabling Wi-Fi calling
+C: Using a locator application
+D: Calibrating the screen
+Answer: A
+Page: 21
+Source: OSE_CH12.xlsx
+
+Q: Which Linux distribution uses Unity as its default GUI?
+A: Red Hat
+B: Debian
+C: Ubuntu
+D: CentOS
+Answer: C
+Page: 33
+Source: OSE_CH12.xlsx
+
+Q: What is the term for directly installing apps on an Android device without going through the storefront interface?
+A: Rooting
+B: Sideloading
+C: Jailbreaking
+D: Sandboxing
+Answer: B
+Page: 7
+Source: OSE_CH12.xlsx
+
+Q: Which Linux command is used to change the permissions of files?
+A: `passwd`
+B: `iwconfig`
+C: `chmod`
+D: `kill`
+Answer: C
+Page: 47
+Source: OSE_CH12.xlsx
+
+Q: What type of files do antivirus and antimalware programs rely on to operate?
+A: Log files
+B: Configuration files
+C: Signature files
+D: Registry files
+Answer: C
+Page: 43
+Source: OSE_CH12.xlsx
+
+Q: What does the "PRL" stand for in the context of mobile device radio firmware updates?
+A: Primary Rate Link
+B: Preferred Radio List
+C: Primary Roaming List
+D: Preferred Rate Link
+Answer: C
+Page: 31
+Source: OSE_CH12.xlsx
+
+Q: What is the name of the remote network installation feature supported by macOS?
+A: AirDrop
+B: Time Machine
+C: NetBoot
+D: Screen Sharing
+Answer: C
+Page: 32
+Source: OSE_CH12.xlsx
+
+Q: On Unix-like systems, what does mounting a partition refer to?
+A: Formatting the partition for use
+B: Checking the partition for errors
+C: Binding the partition to a folder location
+D: Creating a new partition on the disk
+Answer: C
+Page: 41
+Source: OSE_CH12.xlsx
+
+Q: What is the name of the macOS feature that allows users to view and organize apps on multiple desktops?
+A: Finder
+B: Spotlight
+C: Mission Control
+D: Aqua
+Answer: C
+Page: 34
+Source: OSE_CH12.xlsx
+
+Q: Which of these is NOT a cloud-enabled service for mobile devices discussed in the text?
+A: Remote wipe
+B: Screen Calibration
+C: Locator applications
+D: Remote backup
+Answer: B
+Page: 25-28
+Source: OSE_CH12.xlsx
+
+Q: What is the minimum internet throughput required for a good quality Wi-Fi call?
+A: 512 kbps
+B: 1 Mbps
+C: 2 Mbps
+D: 10 Mbps
+Answer: B
+Page: 18
+Source: OSE_CH12.xlsx
+
+Q: Which Linux command grants a user root access without changing their profile?
+A: `chown`
+B: `dd`
+C: `sudo`
+D: `apt-get`
+Answer: C
+Page: 48
+Source: OSE_CH12.xlsx
+
+Q: After how many failed passcode attempts will an iOS device erase all data?
+A: 5
+B: 7
+C: 10
+D: 12
+Answer: C
+Page: 24
+Source: OSE_CH12.xlsx
+
+Q: What is the term for the isolated location within a mobile OS that keeps app code separate from other resources?
+A: Jailbreak
+B: Sandbox
+C: Kernel
+D: Root directory
+Answer: B
+Page: 29
+Source: OSE_CH12.xlsx
+
+Q: What mobile payment method involves a user waving their phone near a payment system?
+A: Premium SMS
+B: Direct Mobile Billing
+C: Mobile Web Payments
+D: Contactless NFC
+Answer: D
+Page: 19
+Source: OSE_CH12.xlsx
+
+Q: What is the name of the built-in backup tool included in macOS?
+A: Disk Utility
+B: Time Machine
+C: Finder
+D: Keychain
+Answer: B
+Page: 38
+Source: OSE_CH12.xlsx
+
+Q: What sensor in a mobile device detects how it is being held and changes the screen orientation?
+A: Gyroscope
+B: GPS receiver
+C: Accelerometer
+D: Light sensor
+Answer: C
+Page: 14
+Source: OSE_CH12.xlsx
+
+Q: What is the purpose of S.M.A.R.T. technology in disk utilities?
+A: To format the disk for use
+B: To defragment the disk for better performance
+C: To anticipate disk failure
+D: To create and manage disk partitions
+Answer: C
+Page: 41
+Source: OSE_CH12.xlsx
+
+Q: What service is responsible for handling scheduled tasks in Linux and macOS?
+A: cron
+B: systemd
+C: launchd
+D: taskmgr
+Answer: A
+Page: 42
+Source: OSE_CH12.xlsx
+
+Q: What term describes the practice of using GPS data to provide location-specific services on mobile devices?
+A: Geotracking
+B: Geocaching
+C: Geotagging
+D: Geofencing
+Answer: A
+Page: 16
+Source: OSE_CH12.xlsx
+
+Q: Which of the following is a characteristic of a closed source operating system?
+A: Source code is freely available
+B: Users can modify and redistribute the OS
+C: Developers control access to the source code
+D: It promotes community-driven development
+Answer: C
+Page: 5
+Source: OSE_CH12.xlsx
+
+Q: Which of the following is NOT a typical function performed by the Home button on an iOS device?
+A: Waking the device
+B: Returning to the Home screen
+C: Starting Siri or Voice Control
+D: Accessing the Notification Center
+Answer: D
+Page: 11
+Source: OSE_CH12.xlsx
+
+Q: What type of file is used to directly install third-party or custom apps on an Android device?
+A: .exe
+B: .dmg
+C: .apk
+D: .iso
+Answer: C
+Page: 7
+Source: OSE_CH12.xlsx
+
+Q: What is a key difference between the user interfaces of Android and iOS?
+A: Android uses virtual buttons, while iOS uses physical buttons.
+B: Android supports widgets, while iOS does not.
+C: Android has a single Home screen, while iOS has multiple.
+D: Android has a notification center, while iOS does not.
+Answer: B
+Page: 11
+Source: OSE_CH12.xlsx
+
+Q: What is the process of removing manufacturer restrictions on an iOS device to allow running arbitrary code and gain full file system access called?
+A: Sandboxing
+B: Rooting
+C: Sideloading
+D: Jailbreaking
+Answer: D
+Page: 30
+Source: OSE_CH12.xlsx
+
+Q: On iOS, what feature displays suggestions from sources like the Internet, iTunes, and nearby locations?
+A: Siri
+B: Notification Center
+C: Control Center
+D: Spotlight
+Answer: D
+Page: 12
+Source: OSE_CH12.xlsx
+
+Q: What navigation system utilizes messages from satellites to determine a device's time and location?
+A: Cellular network
+B: Wi-Fi positioning
+C: Bluetooth beaconing
+D: Global Positioning System (GPS)
+Answer: D
+Page: 16
+Source: OSE_CH12.xlsx
+
+Q: In the context of Unix-like systems, what does it mean to "mount" a partition?
+A: To prepare it for formatting
+B: To check it for errors
+C: To make it accessible by associating it with a directory
+D: To back it up to a separate location
+Answer: C
+Page: 41
+Source: OSE_CH12.xlsx
+
+Q: What security measure on an Android device isolates application code from other resources and code?
+A: Remote Lock
+B: Passcode Lock
+C: Firewall
+D: Sandbox
+Answer: D
+Page: 29
+Source: OSE_CH12.xlsx
+
+Q: What type of mobile payment involves sending an SMS message with a payment request to the carrier?
+A: Direct Mobile Billing
+B: Mobile Web Payment
+C: Contactless NFC
+D: Premium SMS
+Answer: D
+Page: 19
+Source: OSE_CH12.xlsx
+
+Q: Which of the following is a Windows feature that can encrypt an entire hard drive?
+A: Data wiping
+B: EFS
+C: BitLocker
+D: AutoPlay
+Answer: C. BitLocker
+Page: 35
+Source: OSE_CH13.xlsx
+
+Q: What is the principle that describes limiting users to only the resources they need on a computer or network?
+A: Principle of User Restriction
+B: Principle of Limited Access
+C: Principle of Least Privilege
+D: Principle of Resource Control
+Answer: C. Principle of Least Privilege
+Page: 34
+Source: OSE_CH13.xlsx
+
+Q: Which of the following is NOT a typical use case for port forwarding?
+A: Streaming Media
+B: Hosting Games
+C: Providing services from a home computer to the internet
+D: Disabling the SSID broadcast of a wireless network
+Answer: D. Disabling the SSID broadcast of a wireless network
+Page: 84
+Source: OSE_CH13.xlsx
+
+Q: Which of the following is a type of DoS attack that exploits the TCP three-way handshake?
+A: DNS Poisoning
+B: Spoofing
+C: Replay
+D: SYN Flood
+Answer: D. SYN Flood
+Page: 16
+Source: OSE_CH13.xlsx
+
+Q: What type of lock is unlocked by using a biometric scanner, such as a fingerprint reader?
+A: Token-based lock
+B: Electronic lock
+C: Biometric lock
+D: Deadbolt lock
+Answer: C. Biometric lock
+Page: 28
+Source: OSE_CH13.xlsx
+
+Q: In Windows 10, what is the feature that allows the OS to use facial recognition or a fingerprint to access the system?
+A: Picture Password
+B: Dynamic lock
+C: Windows Hello
+D: PIN
+Answer: C. Windows Hello
+Page: 44
+Source: OSE_CH13.xlsx
+
+Q: Which of the following is NOT a common social engineering technique?
+A: Phishing
+B: Baiting
+C: Spoofing
+D: Dumpster Diving
+Answer: C. Spoofing
+Page: 20
+Source: OSE_CH13b.xlsx
+
+Q: What is the current industry standard for securing wireless LANs?
+A: WEP
+B: WPA
+C: WPA2
+D: AES
+Answer: C. WPA2
+Page: 78
+Source: OSE_CH13b.xlsx
+
+Q: Which Windows feature allows encryption of an entire hard drive?
+A: EFS
+B: BitLocker
+C: TPM
+D: Secure Erase
+Answer: B. BitLocker
+Page: 35
+Source: OSE_CH13b.xlsx
+
+Q: What is the term used to describe the official procedures employed by those people who are qualified to collect evidence in a cybercrime investigation?
+A: Chain of Custody
+B: First Response
+C: Cyber Law
+D: Computer Forensics
+Answer: B. First Response
+Page: 40
+Source: OSE_CH14.xlsx
+
+Q: When dealing with a customer on the phone, which of these actions is most likely to help them relax and provide helpful information for troubleshooting?
+A: Speaking quickly and efficiently to convey expertise.
+B: Using technical jargon to demonstrate your knowledge.
+C: Establishing a good rapport with the customer.
+D: Immediately jumping into detailed questions about the issue.
+Answer: C. Establishing a good rapport with the customer.
+Page: 5
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is an example of volatile data that should be documented immediately when illegal computer or network activity is discovered?
+A: Contents of the hard drive
+B: Files stored on a USB drive
+C: Email messages stored on the server
+D: Running programs and open network connections
+Answer: D. Running programs and open network connections
+Page: 41
+Source: OSE_CH14.xlsx
+
+Q: What type of software license is specifically designed for individual users?
+A: Enterprise License
+B: Open Source License
+C: Commercial License
+D: End User License Agreement (EULA)
+Answer: D. End User License Agreement (EULA)
+Page: 37
+Source: OSE_CH14.xlsx
+
+Q: According to the document, which of the following is NOT a valid purpose of IT documentation?
+A: Encrypting sensitive data for security purposes.
+B: Standardizing procedures for accurate repetition.
+C: Providing descriptions of software and hardware functionality.
+D: Complying with governmental or industry regulations.
+Answer: A. Encrypting sensitive data for security purposes.
+Page: 21
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is a primary responsibility of a Level One call center technician?
+A: Developing complex network security solutions.
+B: Gathering initial information about the customer's issue.
+C: Performing in-depth hardware diagnostics and repairs.
+D: Managing and implementing enterprise-level software changes.
+Answer: B. Gathering initial information about the customer's issue.
+Page: 47
+Source: OSE_CH14.xlsx
+
+Q: What is the primary function of a disaster recovery plan in an IT environment?
+A: Preventing all potential disasters from occurring.
+B: Ensuring continuous uptime with no service interruptions.
+C: Outlining steps to quickly restore operations after a disruption.
+D: Providing detailed instructions for everyday IT tasks.
+Answer: C. Outlining steps to quickly restore operations after a disruption.
+Page: 26
+Source: OSE_CH14.xlsx
+
+Q: What type of data is stored in RAM, cache, and registries, and disappears when the computer is turned off?
+A: Persistent Data
+B: Static Data
+C: Non-Volatile Data
+D: Volatile Data
+Answer: D. Volatile Data
+Page: 38
+Source: OSE_CH14.xlsx
+
+Q: Why is it important to capture volatile data as soon as possible when investigating illegal computer activity?
+A: Volatile data can help encrypt persistent data.
+B: Volatile data is required for regulatory compliance.
+C: Volatile data disappears when the computer is turned off.
+D: Volatile data is only present on Linux systems.
+Answer: C. Volatile data disappears when the computer is turned off.
+Page: 39
+Source: OSE_CH14.xlsx
+
+Q: What is the term for a simple text file used to automate processes and tasks in various operating systems?
+A: Algorithm
+B: Flowchart
+C: Script File
+D: Executable File
+Answer: C. Script File
+Page: 53
+Source: OSE_CH14.xlsx
+
+Q: Which of the following actions is considered unethical and potentially illegal for an IT professional?
+A: Using a mirror to monitor facial expressions during a customer call.
+B: Documenting the reason for accessing a user's computer.
+C: Accessing a coworker's private files without their permission.
+D: Refusing to install unlicensed software on a customer's computer.
+Answer: C. Accessing a coworker's private files without their permission.
+Page: 36
+Source: OSE_CH14.xlsx
+
+Q: When working with a customer, which type of question is MOST effective for gathering initial information and understanding their problem?
+A: Closed-ended questions that can be answered with "yes" or "no".
+B: Leading questions that suggest a specific answer.
+C: Open-ended questions that allow the customer to explain fully.
+D: Technical questions that use jargon and acronyms.
+Answer: C. Open-ended questions that allow the customer to explain fully.
+Page: 9
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is a key benefit of using script files for IT tasks?
+A: They eliminate the need for user interaction.
+B: They guarantee the resolution of all computer problems.
+C: They increase the complexity of troubleshooting.
+D: They can automate repetitive actions, saving time and effort.
+Answer: D. They can automate repetitive actions, saving time and effort.
+Page: 53
+Source: OSE_CH14.xlsx
+
+Q: Which of the following regulations specifically addresses the security and privacy of patient health information in electronic form?
+A: PCI DSS
+B: GDPR
+C: HIPAA
+D: SOX
+Answer: C. HIPAA
+Page: 34
+Source: OSE_CH14.xlsx
+
+Q: You discover a colleague is sharing sensitive customer information without authorization. What is the MOST appropriate action to take?
+A: Ignore it, as it is not your responsibility.
+B: Report the incident to your supervisor or the appropriate authority.
+C: Confront your colleague and demand they stop.
+D: Make a copy of the shared information for yourself.
+Answer: B. Report the incident to your supervisor or the appropriate authority.
+Page: 36
+Source: OSE_CH14.xlsx
+
+Q: What should you do if you discover illegal activity on a computer or network you are working on?
+A: Immediately turn off the computer to stop the activity.
+B: Delete any evidence of the illegal activity.
+C: Document your findings and report them to the appropriate authority.
+D: Use the computer or network for personal gain before reporting it.
+Answer: C. Document your findings and report them to the appropriate authority.
+Page: 41
+Source: OSE_CH14.xlsx
+
+Q: In a call center environment, what is the typical workflow for handling a customer issue that a Level One technician cannot resolve?
+A: The technician dismisses the customer without further assistance.
+B: The technician attempts to solve the problem again using the same methods.
+C: The issue is escalated to a Level Two technician with more specialized expertise.
+D: The technician puts the customer on hold indefinitely.
+Answer: C. The issue is escalated to a Level Two technician with more specialized expertise.
+Page: 44
+Source: OSE_CH14.xlsx
+
+Q: Failure to comply with data privacy regulations, such as HIPAA or PCI DSS, can lead to which of the following consequences for IT professionals?
+A: Increased job opportunities due to high demand for compliance experts.
+B: Recognition and awards for ethical data handling practices.
+C: Fines, termination of employment, and even incarceration.
+D: No significant consequences, as these regulations are rarely enforced.
+Answer: C. Fines, termination of employment, and even incarceration.
+Page: 24
+Source: OSE_CH14.xlsx
+
+Q: Which of these is NOT considered illegal in the context of IT work according to the document?
+A: Sharing a customer's internet usage history with their coworkers.
+B: Installing software on a customer's computer without permission.
+C: Using a customer's company IT resources for personal commercial purposes.
+D: Sharing login credentials for a customer's account with a friend.
+Answer: A. Sharing a customer's internet usage history with their coworkers.
+Page: 36
+Source: OSE_CH14.xlsx
+
+Q: What type of data is considered persistent data in a computer forensics investigation?
+A: Data stored in RAM.
+B: Data stored in CPU cache.
+C: Data stored on a hard drive.
+D: Data transmitted over a network.
+Answer: C. Data stored on a hard drive.
+Page: 38
+Source: OSE_CH14.xlsx
+
+Q: What is the purpose of a "Chain of Custody" in a computer forensics investigation?
+A: To provide a secure storage location for evidence.
+B: To track the handling of evidence to ensure its integrity.
+C: To analyze the digital data collected as evidence.
+D: To identify the perpetrator of the cybercrime.
+Answer: B. To track the handling of evidence to ensure its integrity.
+Page: 42
+Source: OSE_CH14.xlsx
+
+Q: When communicating with a customer about a technical issue, why is it important to avoid using jargon, abbreviations, and slang?
+A: It helps demonstrate your superior technical knowledge.
+B: It confuses the customer and hinders effective communication.
+C: It makes the conversation more interesting and engaging.
+D: It ensures that the customer feels intimidated and less likely to ask questions.
+Answer: B. It confuses the customer and hinders effective communication.
+Page: 11
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is NOT a type of Personally Identifiable Information (PII)?
+A: Computer's MAC address
+B: Social Security Number (SSN)
+C: Email address
+D: Driver's license number
+Answer: A. Computer's MAC address
+Page: 31
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is a responsibility specifically associated with a Level Two call center technician?
+A: Answering incoming calls and gathering basic information.
+B: Resetting passwords and performing other routine tasks.
+C: Escalating complex issues to the customer's supervisor.
+D: Troubleshooting advanced issues and providing remote support.
+Answer: D. Troubleshooting advanced issues and providing remote support.
+Page: 48
+Source: OSE_CH14.xlsx
+
+Q: What type of software license allows developers to modify and share the source code of a program?
+A: Commercial License
+B: End User License Agreement (EULA)
+C: Enterprise License
+D: Open Source License
+Answer: D. Open Source License
+Page: 37
+Source: OSE_CH14.xlsx
+
+Q: What does DRM (Digital Rights Management) software aim to prevent?
+A: Illegal modification of hardware components.
+B: Unauthorized access to digital content and devices.
+C: Sharing of open-source software code.
+D: Distribution of software under enterprise licenses.
+Answer: B. Unauthorized access to digital content and devices.
+Page: 37
+Source: OSE_CH14.xlsx
+
+Q: What is the main purpose of the PCI Security Standards Council?
+A: To regulate the use of open-source software.
+B: To protect payment card information for global transactions.
+C: To enforce ethical behavior in online gaming communities.
+D: To prevent the spread of malware and viruses.
+Answer: B. To protect payment card information for global transactions.
+Page: 32
+Source: OSE_CH14.xlsx
+
+Q: You are working on a customer's computer and need to make changes to the hardware configuration. What should you do BEFORE making any changes?
+A: Make the changes quickly to minimize downtime for the customer.
+B: Consult with a colleague to confirm the correct procedures.
+C: Obtain clear permission from the customer.
+D: Document the changes after completing them.
+Answer: C. Obtain clear permission from the customer.
+Page: 36
+Source: OSE_CH14.xlsx
+
+Q: A company wants to ensure that its employees understand the rules and restrictions for using company computers and networks. What type of documentation should they provide?
+A: Disaster Recovery Plan
+B: Acceptable Use Policy
+C: Service Level Agreement (SLA)
+D: Inventory and Asset Management Documentation
+Answer: B. Acceptable Use Policy
+Page: 21
+Source: OSE_CH14.xlsx
+
+Q: When assisting a customer over the phone, what strategy can a technician use to project a positive and friendly demeanor, even without visual cues?
+A: Use a monotone voice to sound professional.
+B: Speak quickly to convey efficiency.
+C: Smile while speaking to improve tone of voice.
+D: Avoid giving verbal feedback to the customer.
+Answer: C. Smile while speaking to improve tone of voice.
+Page: 7
+Source: OSE_CH14.xlsx
+
+Q: Which of the following is NOT a security policy category that outlines verification procedures and specifies authorized persons that can have access to network resources?
+A: Identification and Authentication Policies
+B: Password Policies
+C: Network Maintenance Policies
+D: Remote Access Policies
+Answer: D
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following Windows features allows you to encrypt an entire hard drive?
+A: EFS
+B: BitLocker
+C: Windows Hello
+D: Windows Firewall
+Answer: B
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: What type of lock is unlocked by swiping a secure card or by using a near proximity reader to detect a smart card or wireless key fob?
+A: Conventional lock
+B: Deadbolt lock
+C: Electronic lock
+D: Token-based lock
+Answer: D
+Page: 27
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following best describes the purpose of a firewall?
+A: To allow outside users controlled access to specific services.
+B: To encrypt data transmissions through inspection and filtering of data packets.
+C: To prevent undesirable traffic from entering internal networks.
+D: To remove or quarantine malware threats.
+Answer: C
+Page: 58
+Source: OSE_CH13c.xlsx
+
+Q: Which wireless security mode offers the strongest level of security for a WLAN?
+A: WPA
+B: WEP
+C: WPA2
+D: WPA3
+Answer: C
+Page: 78
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following types of malware is self-replicating and can spread without any user interaction?
+A: Trojan horse
+B: Worm
+C: Spyware
+D: Ransomware
+Answer: B
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following actions should be taken when an employee leaves an organization to ensure the security of computer systems and data?
+A: Immediately disable the employee's account or change login credentials.
+B: Grant the employee guest access with limited privileges.
+C: Allow the employee to continue using their account for a grace period.
+D: Delete the employee's account immediately.
+Answer: A
+Page: 52
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary function of the Trusted Platform Module (TPM) in relation to BitLocker encryption?
+A: To generate and store encryption keys.
+B: To disable automatic updates.
+C: To provide a backup of the encryption key.
+D: To monitor system activity for suspicious behavior.
+Answer: A
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows tool provides the most granular control over inbound and outbound firewall rules, including connection security rules?
+A: Windows Firewall
+B: Windows Defender Firewall with Advanced Security
+C: Local Users and Groups Manager
+D: Windows User Accounts
+Answer: B
+Page: 62
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of using InPrivate browsing mode in a web browser?
+A: To encrypt all web traffic.
+B: To permanently delete browsing history and cookies.
+C: To prevent websites from tracking user activity.
+D: To temporarily store browsing data that is deleted when the session ends.
+Answer: D
+Page: 65
+Source: OSE_CH13c.xlsx
+
+Q: What is the principle called that advocates for giving users only the minimum level of access required to perform their job duties?
+A: Principle of Minimal Trust
+B: Principle of Least Privilege
+C: Principle of User Restriction
+D: Principle of Data Segmentation
+Answer: B
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: Which type of network attack floods a target device with false requests, making it unavailable to legitimate users?
+A: Man-in-the-Middle attack
+B: Denial of Service (DoS) attack
+C: DNS poisoning attack
+D: Spoofing attack
+Answer: B
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: Which type of encryption uses two separate keys, a public key for encryption and a private key for decryption?
+A: Hash Encoding
+B: Asymmetric Encryption
+C: Symmetric Encryption
+D: Key Stretching
+Answer: B
+Page: 75
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the security feature in some web browsers that warns users about potentially malicious websites or downloads?
+A: InPrivate Browsing
+B: SmartScreen Filter
+C: ActiveX Filtering
+D: Pop-up Blocker
+Answer: B
+Page: 67
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT an effective way to erase data from a Solid State Drive (SSD)?
+A: Secure Erase
+B: Degaussing
+C: Using a shredding machine or incinerator
+D: Overwriting the drive with random data multiple times
+Answer: B
+Page: 39
+Source: OSE_CH13c.xlsx
+
+Q: What is the term for multiple download sites used by anti-malware manufacturers to distribute signature files and avoid excessive traffic to a single website?
+A: Proxies
+B: Mirrors
+C: Repositories
+D: Sandboxes
+Answer: B
+Page: 10
+Source: OSE_CH13c.xlsx
+
+Q: In the context of network attacks, what does the term "zero-day" refer to?
+A: The severity level of the attack.
+B: The moment the exploit is discovered.
+C: The day an unknown vulnerability is discovered by the vendor.
+D: The amount of damage caused by the attack.
+Answer: C
+Page: 17
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following social engineering techniques involves an attacker gaining unauthorized access to a restricted area by following an authorized person?
+A: Impersonation
+B: Dumpster Diving
+C: Tailgating
+D: Shoulder Surfing
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of a "mantrap" in a high-security environment?
+A: To detect and prevent malware.
+B: To store sensitive data securely.
+C: To limit access to restricted areas and prevent tailgating.
+D: To authenticate users before granting access.
+Answer: C
+Page: 28
+Source: OSE_CH13c.xlsx
+
+Q: When configuring a Windows workstation for security, which of the following actions is considered a best practice for protecting against unauthorized access when a user is away?
+A: Setting a BIOS password.
+B: Disabling the screensaver.
+C: Enabling automatic software updates.
+D: Requiring the computer to lock when the screensaver starts.
+Answer: D
+Page: 45
+Source: OSE_CH13c.xlsx
+
+Q: What is the Windows feature that allows you to selectively encrypt individual files and folders?
+A: Encrypting File System (EFS)
+B: BitLocker
+C: Windows Hello
+D: Secure Hash Algorithm (SHA)
+Answer: A
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: What type of TCP/IP attack involves an attacker intercepting communication between two hosts and potentially altering the data being exchanged?
+A: Syn Flood attack
+B: DNS Poisoning attack
+C: Distributed Denial of Service (DDoS) attack
+D: Man-in-the-Middle attack
+Answer: D
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the small room with two doors, often used in high-security environments to prevent unauthorized individuals from following authorized personnel?
+A: Airlock
+B: Faraday Cage
+C: Mantrap
+D: Secure Entry Vestibule
+Answer: C
+Page: 28
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows tool enables administrators to configure password requirements, audit policies, user rights, and other security options for standalone computers?
+A: Windows Firewall
+B: Windows Defender Firewall with Advanced Security
+C: Local Users and Groups Manager
+D: Windows Local Security Policy
+Answer: D
+Page: 47
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary reason for disabling the "AutoPlay" feature in Windows?
+A: To prevent the automatic execution of malicious code from removable media.
+B: To improve system performance by reducing background processes.
+C: To prevent unauthorized access to system files.
+D: To conserve battery life by minimizing unnecessary operations.
+Answer: A
+Page: 70
+Source: OSE_CH13c.xlsx
+
+Q: A type of malware that disguises itself as a legitimate program while carrying malicious code is known as:
+A: Trojan Horse
+B: Rootkit
+C: Ransomware
+D: Adware
+Answer: A
+Page: 7
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows security feature utilizes biometric data, such as facial recognition or fingerprints, to allow users to log in?
+A: Windows Hello
+B: BitLocker
+C: Local Security Policy
+D: Windows User Accounts
+Answer: A
+Page: 44
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following methods provides the MOST secure way to erase data from a hard drive that is no longer needed?
+A: Formatting the hard drive.
+B: Deleting individual files from the hard drive.
+C: Destroying the hard drive physically.
+D: Overwriting the hard drive with zeros.
+Answer: C
+Page: 40
+Source: OSE_CH13c.xlsx
+
+Q: What is the BEST practice for securing data backups to protect against potential data loss due to events like theft or disasters at the primary storage location?
+A: Encrypt the backup data.
+B: Store the backups in a separate fireproof safe.
+C: Store the backups offsite.
+D: Use a cloud-based backup service.
+Answer: C
+Page: 32
+Source: OSE_CH13c.xlsx
+
+Q: Which security measure can help prevent unauthorized access to a wireless network by allowing only devices with specific MAC addresses to connect?
+A: SSID cloaking.
+B: MAC filtering.
+C: WPA2 encryption.
+D: Disabling UPnP.
+Answer: B
+Page: 84
+Source: OSE_CH13c.xlsx
+
+Q: What is the recommended method for ensuring that updates to anti-malware signature files are authentic and have not been tampered with?
+A: Download them from a trusted mirror site.
+B: Download them directly from the anti-malware manufacturer's website.
+C: Install updates only when prompted by the operating system.
+D: Use third-party software to manage anti-malware signature file updates.
+Answer: B
+Page: 10
+Source: OSE_CH13c.xlsx
+
+Q: Which security policy category dictates the rules and guidelines for creating and managing strong passwords within an organization?
+A: Identification and Authentication Policies
+B: Password Policies
+C: Acceptable Use Policies
+D: Remote Access Policies
+Answer: B
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: What is the Windows tool used to manage user accounts and groups on a local computer?
+A: Windows Firewall
+B: Active Directory Users and Computers
+C: Local Users and Groups Manager
+D: Windows Local Security Policy
+Answer: C
+Page: 54
+Source: OSE_CH13c.xlsx
+
+Q: Which type of wireless security protocol is considered the MOST secure for protecting a WLAN, using Advanced Encryption Standard (AES) for encryption?
+A: WEP (Wired Equivalent Privacy)
+B: WPA (Wi-Fi Protected Access)
+C: WPA2 (Wi-Fi Protected Access 2)
+D: WPS (Wi-Fi Protected Setup)
+Answer: C
+Page: 78
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of port forwarding on a wireless router?
+A: To block specific ports to prevent unauthorized access.
+B: To open specific ports to allow certain applications to communicate through the firewall.
+C: To encrypt all incoming and outgoing network traffic.
+D: To scan for and identify potential security threats on the network.
+Answer: B
+Page: 82
+Source: OSE_CH13c.xlsx
+
+Q: Which type of malware is specifically designed to encrypt a user's files and demand a ransom payment in exchange for the decryption key?
+A: Rootkit
+B: Ransomware
+C: Spyware
+D: Adware
+Answer: B
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of using a privacy screen on a computer monitor?
+A: To prevent unauthorized individuals from viewing sensitive information displayed on the screen.
+B: To reduce eye strain caused by prolonged computer use.
+C: To protect the monitor from scratches and damage.
+D: To enhance the contrast and color accuracy of the display.
+Answer: A
+Page: 42
+Source: OSE_CH13c.xlsx
+
+Q: You suspect that a computer has been infected with malware. Which of the following steps is LEAST likely to be helpful in the initial stages of troubleshooting the problem?
+A: Running a full system scan with updated anti-malware software.
+B: Booting the computer into Safe Mode.
+C: Checking system logs for suspicious events.
+D: Reformatting the hard drive and reinstalling the operating system.
+Answer: D
+Page: 12
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following features is designed to prevent unauthorized access to a computer by automatically locking the system when a paired device, like a smartphone, moves out of range?
+A: Picture password
+B: Dynamic lock
+C: Windows Hello
+D: PIN
+Answer: B
+Page: 44
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of "hashing" in the context of secure communication?
+A: To ensure that the transmitted data has not been altered during transmission.
+B: To encrypt data to make it unreadable without the correct decryption key.
+C: To verify the identity of the sender.
+D: To compress data to reduce transmission time.
+Answer: A
+Page: 74
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of the "Account Lockout Policy" in the Windows Local Security Policy?
+A: To enforce password complexity requirements.
+B: To prevent unauthorized users from installing software.
+C: To limit the number of unsuccessful login attempts before an account is locked, preventing brute-force attacks.
+D: To log all successful and unsuccessful login attempts.
+Answer: C
+Page: 48
+Source: OSE_CH13c.xlsx
+
+Q: You find a USB flash drive in the parking lot of your office building. What is the SAFEST course of action to take?
+A: Plug it into your computer to see what files are stored on it.
+B: Hand it over to your IT department for them to analyze.
+C: Discard it without plugging it into any computer.
+D: Try to identify the owner by checking for identifying information.
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: When configuring a wireless router, what is the purpose of disabling SSID broadcast?
+A: To prevent unauthorized devices from detecting the wireless network.
+B: To increase the encryption strength of the wireless network.
+C: To disable all wireless security protocols.
+D: To prevent the router from connecting to the internet.
+Answer: A
+Page: 76
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a valid Windows sign-in option in Windows 10?
+A: Password
+B: PIN
+C: Picture Password
+D: Voice Recognition
+Answer: D
+Page: 44
+Source: OSE_CH13c.xlsx
+
+Q: A security policy document is best described as:
+A: A static set of rules that never changes.
+B: A comprehensive guide for responding to security incidents.
+C: A set of security objectives that evolve with technology and business needs to protect a network, data, and computers in an organization.
+D: A technical document outlining specific firewall configurations.
+Answer: C
+Page: 23
+Source: OSE_CH13c.xlsx
+
+Q: What type of attack exploits the TCP three-way handshake process to overwhelm a target device with connection requests?
+A: Spoofing Attack
+B: Syn Flood Attack
+C: DNS Poisoning Attack
+D: Replay Attack
+Answer: B
+Page: 16
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the security protocol that is considered obsolete and should NOT be used to secure a wireless network?
+A: WPA2
+B: WPA
+C: WEP
+D: AES
+Answer: C
+Page: 77
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of the SmartScreen Filter in a web browser?
+A: To block pop-up windows from appearing.
+B: To clear browsing history and cookies.
+C: To warn users about potentially malicious websites and downloads.
+D: To prevent the installation of ActiveX controls.
+Answer: C
+Page: 67
+Source: OSE_CH13c.xlsx
+
+Q: You need to configure a Windows computer to automatically log off a user after a period of inactivity. Which setting should you adjust?
+A: Account Lockout Policy
+B: Idle Timeout and Screen Lock
+C: User Rights Assignment
+D: Password Policy
+Answer: B
+Page: 52
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following statements is TRUE about the security practice of "data wiping"?
+A: Data wiping involves defragmenting a hard drive to improve performance.
+B: Data wiping is only necessary for magnetic hard drives, not SSDs.
+C: Data wiping aims to make deleted data unrecoverable, even with specialized tools.
+D: Data wiping is automatically performed when you empty the Recycle Bin.
+Answer: C
+Page: 38
+Source: OSE_CH13c.xlsx
+
+Q: Which type of social engineering attack involves sending fraudulent emails disguised as being from a trusted source to trick recipients into revealing personal information?
+A: Baiting
+B: Spam
+C: Phishing
+D: Pretexting
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: You are tasked with securely disposing of a hard drive containing highly sensitive data. Degaussing is NOT a suitable option. Which method is recommended in this scenario?
+A: Formatting the hard drive multiple times.
+B: Using software to overwrite the drive with random data.
+C: Physically destroying the hard drive.
+D: Encrypting the hard drive using BitLocker.
+Answer: C
+Page: 39
+Source: OSE_CH13c.xlsx
+
+Q: What is the MAIN purpose of regularly updating the firmware on a wireless router?
+A: To personalize the router's settings and interface.
+B: To improve the wireless signal strength and range.
+C: To fix bugs and address security vulnerabilities.
+D: To add support for new wireless devices and standards.
+Answer: C
+Page: 80
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary function of Active Directory in a Windows network environment?
+A: To manage and filter internet traffic.
+B: To provide centralized authentication and authorization for users and computers.
+C: To scan for and remove malware from network devices.
+D: To encrypt sensitive data stored on network servers.
+Answer: B
+Page: 56
+Source: OSE_CH13c.xlsx
+
+Q: What is the Windows command used to open the "Local Users and Groups Manager" tool?
+A: `secpol.msc`
+B: `wf.msc`
+C: `lusrmgr.msc`
+D: `control userpasswords2`
+Answer: C
+Page: 54
+Source: OSE_CH13c.xlsx
+
+Q: Which of these is NOT a type of TCP/IP attack?
+A: Denial of Service (DoS)
+B: Distributed Denial of Service (DDoS)
+C: Data Encryption Standard (DES)
+D: Man-in-the-Middle
+Answer: C
+Page: 15-16
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary function of anti-malware software?
+A: To encrypt sensitive data on a computer.
+B: To prevent unauthorized access to a computer.
+C: To detect, block, and remove malicious software from a computer.
+D: To optimize system performance and speed up a computer.
+Answer: C
+Page: 9
+Source: OSE_CH13c.xlsx
+
+Q: Which security measure involves limiting a user's access to only the resources they need to perform their job duties?
+A: Principle of Minimal Trust
+B: Principle of Data Segmentation
+C: Principle of User Restriction
+D: Principle of Least Privilege
+Answer: D
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: What type of lock is unlocked by analyzing a unique biological characteristic, such as a fingerprint or iris scan?
+A: Conventional Lock
+B: Electronic Lock
+C: Token-based Lock
+D: Biometric Lock
+Answer: D
+Page: 27
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a recommended method for erasing data from a hard drive, making it difficult to recover?
+A: Overwriting the drive with random data multiple times.
+B: Using a degausser on a traditional magnetic hard drive.
+C: Physically destroying the drive.
+D: Simply deleting the files and emptying the Recycle Bin.
+Answer: D
+Page: 38
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of Universal Plug and Play (UPnP) on a wireless router?
+A: To encrypt data transmitted over the wireless network.
+B: To allow devices to automatically forward traffic through network ports without manual configuration.
+C: To filter out unwanted network traffic based on MAC addresses.
+D: To block specific websites and online content.
+Answer: B
+Page: 83
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a benefit of regularly applying security patches and operating system updates?
+A: Protecting against newly discovered vulnerabilities.
+B: Removing existing malware infections from a computer.
+C: Improving system performance and stability.
+D: Reducing the risk of exploitation by known security threats.
+Answer: C
+Page: 71
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following actions would be considered a violation of an organization's Acceptable Use Policy (AUP)?
+A: Accessing work emails from a personal smartphone.
+B: Downloading pirated software onto a company computer.
+C: Using a company laptop to complete a freelance project during non-work hours.
+D: Sharing your work computer password with a trusted colleague.
+Answer: B
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of setting a BIOS or UEFI password on a computer?
+A: To prevent unauthorized changes to system settings and potentially boot the computer.
+B: To encrypt data stored on the hard drive.
+C: To restrict access to specific files and folders.
+D: To enable automatic backups of important data.
+Answer: A
+Page: 43
+Source: OSE_CH13c.xlsx
+
+Q: Which type of encryption uses a single key for both encryption and decryption of data?
+A: Asymmetric encryption
+B: Hash encoding
+C: Symmetric encryption
+D: Two-factor authentication
+Answer: C
+Page: 75
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a type of network attack where an attacker overwhelms a target device with a flood of SYN packets, exploiting the TCP three-way handshake?
+A: Replay Attack
+B: Spoofing Attack
+C: DNS Poisoning Attack
+D: Syn Flood Attack
+Answer: D
+Page: 16
+Source: OSE_CH13c.xlsx
+
+Q: You want to prevent unauthorized users from accessing your computer while you are away. What is the simplest and most common security measure you can implement?
+A: Enable BitLocker encryption.
+B: Set a BIOS password.
+C: Lock your workstation.
+D: Install a software firewall.
+Answer: C
+Page: 42
+Source: OSE_CH13c.xlsx
+
+Q: Which security policy specifies how an organization handles security breaches and incidents?
+A: Incident Handling Policies
+B: Network Maintenance Policies
+C: Password Policies
+D: Acceptable Use Policies
+Answer: A
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of a "secure erase" when dealing with data destruction on a Solid State Drive (SSD)?
+A: To permanently destroy the SSD, making it unusable.
+B: To securely erase selected files and folders.
+C: To ensure that data cannot be recovered from the SSD, even with specialized tools.
+D: To demagnetize the SSD, making the data unreadable.
+Answer: C
+Page: 39
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows tool provides the most comprehensive options for managing and configuring the built-in firewall?
+A: Windows User Accounts
+B: Local Users and Groups Manager
+C: Windows Firewall with Advanced Security
+D: System Configuration (msconfig)
+Answer: C
+Page: 62
+Source: OSE_CH13c.xlsx
+
+Q: What type of malware is difficult to detect, often granting attackers administrative-level access to a computer system?
+A: Spyware
+B: Rootkit
+C: Ransomware
+D: Trojan Horse
+Answer: B
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: A user reports that their computer is running extremely slow and displaying numerous pop-up advertisements. What type of malware is MOST likely the cause of these issues?
+A: Worm
+B: Ransomware
+C: Adware
+D: Trojan Horse
+Answer: C
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a recommended practice for securing physical access to network equipment in an organization?
+A: Installing network equipment in locked rooms or cages.
+B: Routing cables through walls or conduits.
+C: Placing servers and routers in high-traffic public areas.
+D: Implementing access control measures, like keycard entry systems.
+Answer: C
+Page: 29
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is the BEST way to ensure that data on a hard drive is unrecoverable before recycling or disposing of the hard drive?
+A: Reformatting the hard drive.
+B: Deleting all files and folders.
+C: Physically destroying the hard drive.
+D: Overwriting the hard drive with a single pass of zeros.
+Answer: C
+Page: 40
+Source: OSE_CH13c.xlsx
+
+Q: You are configuring the security settings for a new wireless router. Which of the following wireless security modes provides the STRONGEST level of protection for your wireless network?
+A: WPA (Wi-Fi Protected Access)
+B: WEP (Wired Equivalent Privacy)
+C: WPA2 Personal (Wi-Fi Protected Access 2 with a pre-shared key)
+D: Open Network (no security)
+Answer: C
+Page: 78
+Source: OSE_CH13c.xlsx
+
+Q: What security measure helps mitigate the risk of an attacker gaining access to a system after stealing a user's login credentials from a public computer?
+A: Encrypting File System (EFS)
+B: Using InPrivate browsing mode.
+C: Setting a strong BIOS password.
+D: Installing a hardware firewall.
+Answer: B
+Page: 65
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of a security policy's "Remote Access Policy"?
+A: To define procedures for handling security incidents.
+B: To dictate the frequency of mandatory password changes.
+C: To specify how remote users can connect to the network and what resources they can access.
+D: To outline acceptable use guidelines for company computers and internet access.
+Answer: C
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following Windows tools allows you to configure rules for incoming and outgoing network traffic, including blocking specific ports or applications?
+A: Local Users and Groups Manager
+B: Windows Firewall
+C: BitLocker
+D: Windows Local Security Policy
+Answer: B
+Page: 58
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of the "mirrors" mentioned in the context of anti-malware signature file updates?
+A: To reflect incoming network attacks, preventing them from reaching the computer.
+B: To create encrypted copies of signature files for secure storage.
+C: To distribute signature files across multiple download locations, reducing traffic to a single server.
+D: To detect suspicious behavior patterns that might indicate a malware infection.
+Answer: C
+Page: 10
+Source: OSE_CH13c.xlsx
+
+Q: A type of attack that utilizes multiple compromised computers (often referred to as "zombies") to flood a target with overwhelming traffic is known as:
+A: Man-in-the-Middle attack
+B: Denial of Service (DoS) attack
+C: Distributed Denial of Service (DDoS) attack
+D: DNS Poisoning attack
+Answer: C
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a common technique used in a social engineering attack?
+A: Brute-force password cracking
+B: Installing a keylogger on a victim's computer.
+C: Sending a phishing email.
+D: Encrypting a victim's files and demanding a ransom.
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary benefit of implementing a "defense-in-depth" approach to network security?
+A: It guarantees complete protection against all types of attacks.
+B: It relies solely on a single, robust security measure.
+C: It provides multiple layers of security, making it harder for attackers to breach the network.
+D: It is the cheapest and easiest security strategy to implement.
+Answer: C
+Page: 18
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows feature allows you to encrypt an entire hard drive, including the operating system and user data?
+A: Encrypting File System (EFS)
+B: BitLocker
+C: Windows Firewall
+D: Windows Hello
+Answer: B
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of regularly updating the signature files used by anti-malware software?
+A: To improve system performance and speed.
+B: To provide new features and functionality.
+C: To protect against the latest malware threats by recognizing their unique characteristics.
+D: To remove existing malware infections from a computer.
+Answer: C
+Page: 9
+Source: OSE_CH13c.xlsx
+
+Q: What is the term for a security vulnerability that is unknown to the software vendor, making it highly susceptible to exploitation?
+A: Zero-hour
+B: Backdoor
+C: Logic Bomb
+D: Zero-day
+Answer: D
+Page: 17
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a security risk associated with enabling Universal Plug and Play (UPnP) on a wireless router?
+A: It weakens the encryption of the wireless network.
+B: It allows devices to bypass firewall rules, potentially opening up vulnerabilities.
+C: It makes the router more susceptible to brute-force password attacks.
+D: It increases the visibility of the wireless network to unauthorized users.
+Answer: B
+Page: 83
+Source: OSE_CH13c.xlsx
+
+Q: Which type of lock provides the HIGHEST level of physical security by utilizing multiple authentication methods, such as a keycard and a fingerprint scan?
+A: Biometric lock
+B: Deadbolt lock
+C: Token-based lock
+D: Multifactor lock
+Answer: D
+Page: 27
+Source: OSE_CH13c.xlsx
+
+Q: When remediating a computer infected with malware, what is the purpose of rebooting the computer into Safe Mode?
+A: To automatically download and install the latest security updates.
+B: To permanently delete all user data and restore the operating system to its factory settings.
+C: To run a full system scan with antivirus software before the operating system fully loads.
+D: To create a secure backup of important data before attempting any malware removal.
+Answer: C
+Page: 12
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the security feature in web browsers that helps prevent the automatic execution of potentially malicious ActiveX controls downloaded from websites?
+A: Pop-up Blocker
+B: SmartScreen Filter
+C: ActiveX Filtering
+D: InPrivate Browsing
+Answer: C
+Page: 68
+Source: OSE_CH13c.xlsx
+
+Q: What is the term for an attack where an attacker intercepts and alters a legitimate data packet before sending it to its intended destination?
+A: Spoofing
+B: Man-in-the-Middle
+C: Replay
+D: Denial of Service (DoS)
+Answer: C
+Page: 16
+Source: OSE_CH13c.xlsx
+
+Q: What is the BEST explanation of why it is essential to store data backups offsite?
+A: To prevent data loss in case of theft, fire, or other disasters at the primary storage location.
+B: To ensure compliance with data privacy regulations.
+C: To make it more convenient for users to access their backed-up data.
+D: To reduce the amount of storage space needed at the primary location.
+Answer: A
+Page: 32
+Source: OSE_CH13c.xlsx
+
+Q: In a Windows network using Active Directory, where are domain user accounts stored?
+A: On individual user workstations.
+B: In the Local Security Accounts database of each computer.
+C: On a Windows Server Domain Controller (DC).
+D: In the cloud, managed by a third-party service provider.
+Answer: C
+Page: 56
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following actions is NOT considered a social engineering technique?
+A: Infecting a flash drive with malware and leaving it in a public place.
+B: Sending a fraudulent email asking for personal information.
+C: Gaining unauthorized access to a restricted area by following an authorized person.
+D: Exploiting a software vulnerability to gain access to a system.
+Answer: D
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of a "heuristic" malware identification technique used by anti-malware software?
+A: To detect malware based on its file size and creation date.
+B: To identify known malware based on its signature.
+C: To recognize and block malware based on suspicious behavior patterns.
+D: To prevent malware from being downloaded from the internet.
+Answer: C
+Page: 9
+Source: OSE_CH13c.xlsx
+
+Q: Which security protocol offers the STRONGEST protection for wireless networks, providing both authentication and encryption using Advanced Encryption Standard (AES)?
+A: WEP (Wired Equivalent Privacy)
+B: WPA (Wi-Fi Protected Access)
+C: WPA2 (Wi-Fi Protected Access 2)
+D: WPS (Wi-Fi Protected Setup)
+Answer: C
+Page: 78
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary purpose of implementing file and folder permissions on a computer system?
+A: To encrypt sensitive data and make it unreadable without a key.
+B: To prevent unauthorized access and modification of files and folders.
+C: To optimize system performance and speed up file access.
+D: To automatically back up important files and folders.
+Answer: B
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the specialized chip embedded on a computer's motherboard that can store encryption keys, digital certificates, and passwords used for security purposes?
+A: CMOS Battery
+B: RAM Module
+C: Trusted Platform Module (TPM)
+D: CPU (Central Processing Unit)
+Answer: C
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a recommended step when securing a wireless network?
+A: Changing the default administrator password on the router.
+B: Disabling SSID broadcast to hide the network name.
+C: Enabling WPA2 encryption with a strong password.
+D: Keeping the router's firmware up to date.
+Answer: B
+Page: 76
+Source: OSE_CH13c.xlsx
+
+Q: What type of network attack involves an attacker poisoning a DNS server, redirecting users to malicious websites instead of legitimate ones?
+A: Syn Flood Attack
+B: Distributed Denial of Service (DDoS) Attack
+C: DNS Poisoning Attack
+D: Man-in-the-Middle Attack
+Answer: C
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: You are working on a client's computer in a public area. What is the BEST practice to protect the client's data from being seen by unauthorized individuals while you are stepping away from the computer?
+A: Enable BitLocker encryption on the hard drive.
+B: Close all applications and shut down the computer.
+C: Turn the computer monitor off.
+D: Use a privacy screen filter on the monitor.
+Answer: D
+Page: 42
+Source: OSE_CH13c.xlsx
+
+Q: You are setting up a new wireless network. What is the Service Set Identifier (SSID)?
+A: The type of encryption used on the wireless network.
+B: The password required to connect to the wireless network.
+C: The name of the wireless network.
+D: The physical address of the wireless router.
+Answer: C
+Page: 76
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is an example of a "brute-force attack" on a password-protected system?
+A: An attacker attempts to gain access by guessing common passwords.
+B: An attacker intercepts data packets and analyzes them for passwords.
+C: An attacker tricks a user into revealing their password through social engineering.
+D: An attacker exploits a known vulnerability in the system to bypass password authentication.
+Answer: A
+Page: 48
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of "port forwarding" on a wireless router?
+A: It allows devices on the internet to initiate connections to specific devices on your local network.
+B: It encrypts all network traffic passing through the router.
+C: It prevents unauthorized access to the router's configuration settings.
+D: It blocks specific ports to prevent certain types of network traffic from entering or leaving your network.
+Answer: A
+Page: 82
+Source: OSE_CH13c.xlsx
+
+Q: A user reports that they are unable to access certain websites. You suspect that a malware infection has modified the computer's DNS settings. Which type of attack is MOST likely responsible for this issue?
+A: DoS Attack
+B: DNS Poisoning Attack
+C: Man-in-the-Middle Attack
+D: Syn Flood Attack
+Answer: B
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: What is the BEST way to protect your browsing history, cookies, and other personal information when using a public computer, like one in a library or internet cafe?
+A: Set a BIOS password on the computer.
+B: Enable ActiveX filtering in the web browser.
+C: Use the "InPrivate" or "Private Browsing" mode in the web browser.
+D: Clear the browser's cache and history before closing the browser.
+Answer: C
+Page: 65
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a characteristic of asymmetric encryption?
+A: It uses the same key for both encryption and decryption.
+B: It is typically faster than symmetric encryption for large amounts of data.
+C: It uses a public key for encryption and a private key for decryption.
+D: It is primarily used for ensuring data integrity, not confidentiality.
+Answer: C
+Page: 75
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following describes a social engineering attack where the attacker pretends to be a legitimate entity to gather personal information from a target?
+A: Baiting
+B: Spam
+C: Phishing
+D: Pretexting
+Answer: D
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of "data wiping" in the context of data security?
+A: To organize files and folders on a hard drive.
+B: To improve the performance of a hard drive.
+C: To make deleted data unrecoverable, even with specialized recovery tools.
+D: To encrypt data on a hard drive to prevent unauthorized access.
+Answer: C
+Page: 38
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of the Windows "Account Lockout Policy"?
+A: To prevent users from installing unauthorized software.
+B: To define password complexity rules.
+C: To limit the number of failed login attempts, preventing brute-force attacks.
+D: To track and log all user login activities.
+Answer: C
+Page: 48
+Source: OSE_CH13c.xlsx
+
+Q: You are configuring a wireless router for a small office. Which security protocol is considered the industry standard and MOST secure for protecting the network from unauthorized access?
+A: WEP (Wired Equivalent Privacy)
+B: WPA (Wi-Fi Protected Access)
+C: WPA2 (Wi-Fi Protected Access 2)
+D: WPS (Wi-Fi Protected Setup)
+Answer: C
+Page: 78
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a good practice for managing user accounts in an organization?
+A: Granting users only the necessary permissions to perform their tasks.
+B: Regularly reviewing and updating user permissions.
+C: Using strong, unique passwords for each account.
+D: Sharing a single administrator account for all IT staff to use for convenience.
+Answer: D
+Page: 52
+Source: OSE_CH13c.xlsx
+
+Q: What is the function of "hash encoding" (or hashing) in the context of data security?
+A: It encrypts data, making it unreadable without a decryption key.
+B: It hides sensitive data within other files, making it difficult to find.
+C: It creates a unique digital fingerprint of data to verify its integrity and ensure it hasn't been tampered with.
+D: It compresses data to reduce storage space requirements.
+Answer: C
+Page: 74
+Source: OSE_CH13c.xlsx
+
+Q: Which security feature in Windows allows administrators to monitor and analyze logs of system events, including successful and unsuccessful login attempts?
+A: Windows Firewall
+B: Windows Local Security Policy
+C: Event Viewer
+D: Task Manager
+Answer: C
+Page: 50
+Source: OSE_CH13c.xlsx
+
+Q: You are troubleshooting a computer that is experiencing frequent system crashes and unexpected behavior. What is the FIRST step you should take in the troubleshooting process?
+A: Reformat the hard drive and reinstall the operating system.
+B: Contact a technical support specialist for assistance.
+C: Identify the specific problem and gather as much information as possible.
+D: Establish a theory of probable cause based on the symptoms.
+Answer: C
+Page: 87
+Source: OSE_CH13c.xlsx
+
+Q: A user calls to report that they are receiving numerous unsolicited emails containing suspicious links and attachments. What type of security threat is the user MOST likely experiencing?
+A: Phishing
+B: Ransomware
+C: Spyware
+D: Spam
+Answer: D
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following describes a "Man-in-the-Middle" attack?
+A: An attacker overloads a target system with network traffic, causing it to crash.
+B: An attacker secretly listens to and potentially alters communication between two parties without their knowledge.
+C: An attacker uses a program that pretends to be legitimate to trick a user into providing personal information.
+D: An attacker gains unauthorized access to a system by exploiting a security flaw in its software.
+Answer: B
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a type of physical security control used to prevent unauthorized access to a restricted area?
+A: Antivirus software
+B: Firewall
+C: Mantrap
+D: Password policy
+Answer: C
+Page: 28
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows feature allows you to encrypt individual files and folders to protect their confidentiality?
+A: BitLocker
+B: Windows Hello
+C: Encrypting File System (EFS)
+D: Windows Defender Firewall
+Answer: C
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: What is the BEST explanation of the "Principle of Least Privilege"?
+A: Users should use the simplest passwords possible for easy recall.
+B: All users should have administrative privileges for maximum flexibility.
+C: Users should have only the minimum level of access necessary to perform their job duties.
+D: All data should be encrypted, regardless of its sensitivity level.
+Answer: C
+Page: 34
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following actions should be performed on a regular basis as part of good security maintenance for a wireless router?
+A: Changing the router's MAC address.
+B: Disabling the router's firewall.
+C: Updating the router's firmware.
+D: Hiding the router's SSID.
+Answer: C
+Page: 80
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the Windows feature that allows you to encrypt an entire hard drive, including the operating system, to protect data from unauthorized access if the computer is stolen or lost?
+A: Encrypting File System (EFS)
+B: Windows Hello
+C: BitLocker
+D: Windows Defender Firewall
+Answer: C
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: What is the term for a security practice where multiple layers of protection are implemented to make it more difficult for attackers to compromise a system or network?
+A: Defense-in-depth
+B: Principle of Least Privilege
+C: Network Segmentation
+D: Access Control List (ACL)
+Answer: A
+Page: 18
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a security benefit of disabling the AutoPlay feature in Windows?
+A: It prevents the automatic launch of applications from external media, reducing the risk of malware infection from unknown sources.
+B: It improves system performance by reducing the number of background processes running.
+C: It enforces strong password requirements for user accounts.
+D: It makes data on the hard drive more difficult to recover if the computer is stolen.
+Answer: A
+Page: 70
+Source: OSE_CH13c.xlsx
+
+Q: What is the main difference between a "virus" and a "worm" in the context of malware?
+A: A virus requires user interaction to spread, while a worm can spread automatically by exploiting network vulnerabilities.
+B: A virus corrupts data on a computer, while a worm slows down system performance.
+C: A virus is easier to remove than a worm.
+D: A virus targets specific operating systems, while a worm can infect any device.
+Answer: A
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: You need to configure a specific port on your wireless router to allow an online gaming application to function properly. What feature should you use to achieve this?
+A: Port Forwarding
+B: UPnP (Universal Plug and Play)
+C: MAC Filtering
+D: SSID Broadcasting
+Answer: A
+Page: 82
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows tool allows you to modify password complexity requirements, set account lockout policies, and enable auditing of security events for a standalone computer?
+A: Local Users and Groups Manager
+B: Windows Firewall
+C: Windows Local Security Policy
+D: Active Directory Users and Computers
+Answer: C
+Page: 47
+Source: OSE_CH13c.xlsx
+
+Q: Which type of malware is often difficult to remove because it can disguise its presence and operations from security software?
+A: Worm
+B: Ransomware
+C: Rootkit
+D: Trojan Horse
+Answer: C
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: When disposing of a computer or storage device, what is the MOST secure method to ensure that data cannot be recovered?
+A: Deleting sensitive files and emptying the Recycle Bin.
+B: Reformatting the hard drive.
+C: Overwriting the hard drive with random data multiple times.
+D: Physically destroying the device.
+Answer: D
+Page: 40
+Source: OSE_CH13c.xlsx
+
+Q: You are setting up security for a new laptop that will be used by an employee who travels frequently and often works in public places. Which security measure is MOST important to enable to protect sensitive data if the laptop is stolen?
+A: Requiring a complex password for the user account.
+B: Disabling the laptop's built-in webcam.
+C: Enabling BitLocker encryption for the hard drive.
+D: Installing a software firewall on the laptop.
+Answer: C
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: A user reports that their internet connection is extremely slow and they suspect they are under attack. What type of network attack attempts to make a system or network resource unavailable to legitimate users by flooding it with traffic?
+A: Spoofing Attack
+B: Man-in-the-Middle Attack
+C: Denial of Service (DoS) Attack
+D: DNS Poisoning Attack
+Answer: C
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is the BEST description of a "zero-hour" threat?
+A: A vulnerability that has been known for a long time but is still unpatched.
+B: A vulnerability that is exploited immediately upon its discovery, before the vendor is aware of it.
+C: A vulnerability that is only exploitable for a very short period of time.
+D: A vulnerability that is specifically designed to target a particular organization.
+Answer: B
+Page: 17
+Source: OSE_CH13c.xlsx
+
+Q: Which Windows tool would you use to configure rules that allow or deny specific programs from accessing the network?
+A: Local Users and Groups Manager
+B: Windows Firewall
+C: BitLocker
+D: Windows Local Security Policy
+Answer: B
+Page: 59
+Source: OSE_CH13c.xlsx
+
+Q: What type of malware can secretly monitor a user's actions, such as keystrokes or browsing history, and transmit this information to a third party without the user's knowledge or consent?
+A: Rootkit
+B: Ransomware
+C: Spyware
+D: Adware
+Answer: C
+Page: 8
+Source: OSE_CH13c.xlsx
+
+Q: Why is it generally NOT recommended to rely on disabling SSID broadcast as the primary security measure for a wireless network?
+A: It can interfere with the performance of wireless devices.
+B: It does not actually prevent unauthorized devices from connecting to the network.
+C: It can make it difficult for legitimate users to connect to the network.
+D: It disables encryption on the wireless network, making it vulnerable to eavesdropping.
+Answer: B
+Page: 76
+Source: OSE_CH13c.xlsx
+
+Q: A disgruntled employee deliberately leaves a box of confidential company documents next to a dumpster outside the office, knowing that someone might take them. What type of security threat does this scenario represent?
+A: Tailgating
+B: Dumpster Diving
+C: Social Engineering
+D: Phishing
+Answer: C
+Page: 19
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is a social engineering technique where an attacker gathers sensitive information by sifting through discarded documents and other materials?
+A: Tailgating
+B: Shoulder surfing
+C: Dumpster Diving
+D: Phishing
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following statements about the Windows Local Security Policy is FALSE?
+A: It allows administrators to enforce password requirements.
+B: It can be used to audit successful and unsuccessful login attempts.
+C: It applies only to computers that are part of an Active Directory domain.
+D: It can be used to configure user rights and permissions.
+Answer: C
+Page: 47
+Source: OSE_CH13c.xlsx
+
+Q: What is the PRIMARY reason for disabling the AutoPlay feature in Windows?
+A: To enhance system performance.
+B: To reduce power consumption.
+C: To minimize the risk of malware infections from external media.
+D: To prevent users from accidentally opening files.
+Answer: C
+Page: 70
+Source: OSE_CH13c.xlsx
+
+Q: In the context of wireless security, what is a "Shared Key"?
+A: A physical lock used to secure access to network equipment.
+B: A password or passphrase used for authentication and encryption on a wireless network.
+C: A unique identifier assigned to each wireless device.
+D: A method for hiding the network name (SSID) from unauthorized users.
+Answer: B
+Page: 77
+Source: OSE_CH13c.xlsx
+
+Q: You want to configure a Windows workstation to automatically lock itself after a period of user inactivity. What security setting should you adjust?
+A: Account Lockout Policy
+B: Guest Access Policy
+C: Idle Timeout and Screen Lock
+D: Remote Access Policy
+Answer: C
+Page: 52
+Source: OSE_CH13c.xlsx
+
+Q: Why is it crucial to keep anti-malware software updated with the latest signature files?
+A: To improve system performance and speed.
+B: To fix software bugs and glitches in the anti-malware program.
+C: To effectively detect and remove newly discovered malware threats.
+D: To add support for new hardware and devices.
+Answer: C
+Page: 9
+Source: OSE_CH13c.xlsx
+
+Q: Which type of network attack involves an attacker flooding a target device with requests, making it unavailable to legitimate users?
+A: Man-in-the-Middle attack
+B: Denial of Service (DoS) attack
+C: DNS Poisoning attack
+D: Spoofing attack
+Answer: B
+Page: 15
+Source: OSE_CH13c.xlsx
+
+Q: Which of the following is NOT a recommended method for securely destroying data on a hard drive?
+A: Physically shredding the hard drive.
+B: Overwriting the drive multiple times with random data.
+C: Degaussing the hard drive.
+D: Simply deleting files and emptying the Recycle Bin.
+Answer: D
+Page: 38
+Source: OSE_CH13c.xlsx
+
+Q: What is the primary function of the Trusted Platform Module (TPM) on a computer's motherboard?
+A: To provide hardware acceleration for graphics-intensive applications.
+B: To store encryption keys and other security credentials for BitLocker.
+C: To manage network connectivity and communication protocols.
+D: To control the boot order of devices and operating systems.
+Answer: B
+Page: 35
+Source: OSE_CH13c.xlsx
+
+Q: What type of security policy would outline the procedures and guidelines for employees accessing company resources while working remotely?
+A: Acceptable Use Policy
+B: Network Maintenance Policy
+C: Remote Access Policy
+D: Password Policy
+Answer: C
+Page: 24
+Source: OSE_CH13c.xlsx
+
+Q: You are configuring the Windows Firewall on a standalone computer. Which network location profile provides the MOST restrictive firewall rules, blocking most incoming connections by default?
+A: Private network
+B: Guest or public network
+C: Domain network
+D: Home network
+Answer: B
+Page: 60
+Source: OSE_CH13c.xlsx
+
+Q: What is the name of the social engineering technique where an attacker tries to gain access to a restricted area by following closely behind an authorized individual?
+A: Shoulder Surfing
+B: Dumpster Diving
+C: Tailgating
+D: Impersonation
+Answer: C
+Page: 20
+Source: OSE_CH13c.xlsx
+
+Q: What is the purpose of the "mirrors" used in distributing anti-malware signature file updates?
+A: To provide redundant backups of signature files in case of server failure.
+B: To prevent unauthorized modifications to signature files.
+C: To distribute the update load across multiple servers, reducing download times.
+D: To encrypt signature files, protecting them from tampering during download.
+Answer: C
+Page: 10
+Source: OSE_CH13c.xlsx
+
+Q: What is the main function of the Windows "Local Users and Groups Manager" tool?
+A: To manage firewall rules and network connections.
+B: To configure system-wide security policies and audit settings.
+C: To create, delete, and modify user accounts and groups on a local computer.
+D: To encrypt individual files and folders.
+Answer: C
+Page: 54
+Source: OSE_CH13c.xlsx
+
+Q: You are tasked with securely erasing data from an old laptop's hard drive before donating the laptop to a charity. Which data destruction method is considered LEAST effective and should be avoided?
+A: Overwriting the hard drive with random data multiple times.
+B: Using a shredding machine to physically destroy the hard drive.
+C: Degaussing the hard drive using a powerful magnet.
+D: Simply deleting the files and emptying the Recycle Bin.
+Answer: D
+Page: 38
+Source: OSE_CH13c.xlsx
+
+Q: When upgrading from an older Windows operating system, which version requires a clean installation because it does not have an upgrade path to Windows 10?
+A: Windows 7
+B: Windows 8
+C: Windows Vista
+D: Windows 8.1
+Answer: C
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode starts the operating system with limited functionality and does not load many device drivers?
+A: Safe Mode with Command Prompt
+B: Safe Mode with Networking
+C: Last Known Good Configuration
+D: Safe Mode
+Answer: D
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which partition table scheme standard for hard drives is commonly used in computers with UEFI firmware?
+A: Master Boot Record
+B: Globally Unique Identifier (GUID) Partition Table (GPT)
+C: File Allocation Table, 32 bit (FAT32)
+D: New Technology File System (NTFS)
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: Which file system is created specifically for use with optical disk media?
+A: File Allocation Table, 32 bit (FAT32)
+B: New Technology File System (NTFS)
+C: Compact Disc File System (CDFS)
+D: exFAT (FAT64)
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What type of user account in Windows 10 has complete control over a computer, including the ability to change settings globally and install programs?
+A: Standard User
+B: Power User
+C: Guest
+D: Administrator
+Answer: D
+Page: 24
+Source: OSE_CH10.xlsx
+
+Q: Which tool can an administrator use to remove undesirable settings before creating a final image during disk cloning?
+A: User State Migration Tool (USMT)
+B: System Preparation (Sysprep)
+C: Windows Easy Transfer
+D: PCmover Express
+Answer: B
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: Which custom installation method involves storing Windows installation files on a server, allowing client computers to access them remotely?
+A: Image-based Internal Partition Installation
+B: Remote Network Installation
+C: Windows Advanced Startup Options
+D: Refresh your PC
+Answer: B
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: Which special environment is used to boot a client computer, connect to the network, and communicate with the server to begin the installation process during a remote network installation?
+A: Preboot eXecution Environment (PXE)
+B: Globally Unique Identifier (GUID) Partition Table (GPT)
+C: Master Boot Record
+D: Dynamic Host Configuration Protocol (DHCP)
+Answer: A
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: What type of Windows upgrade will update the OS and migrate apps and settings to the new OS, automatically preserving all data, settings, applications, and drivers from the existing OS version?
+A: Clean install
+B: In-place upgrade
+C: Remote Network Installation
+D: Unattended Network Installation
+Answer: B
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: What is the maximum theoretical partition size supported by the New Technology File System (NTFS)?
+A: 2 TB
+B: 16 exabytes
+C: 4 GB
+D: 512 bytes
+Answer: B
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What should be done with user data before performing a clean install of a newer version of Windows?
+A: It can be left as is
+B: It should be deleted
+C: It should be migrated to the new OS using PCmover Express
+D: It should be saved to a backup drive
+Answer: D
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which Windows operating system introduced the Metro user interface?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: B
+Page: 7
+Source: OSE_CH10.xlsx
+
+Q: Which tool is used to simplify user state migration when a new OS installation is needed?
+A: PCmover Express
+B: Windows Easy Transfer
+C: User State Migration Tool (USMT)
+D: System Preparation (Sysprep)
+Answer: C
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: After the initial installation of Windows, which utility is used to scan for new software and install service packs and patches?
+A: Device Manager
+B: Windows Update
+C: System Image Manager (SIM)
+D: User State Migration Tool (USMT)
+Answer: B
+Page: 25
+Source: OSE_CH10.xlsx
+
+Q: When configuring a multi-boot system on a computer with BIOS-based firmware, what does the Master Boot Record (MBR) identify to load the boot manager?
+A: The Globally Unique Identifier (GUID)
+B: The boot device priority
+C: The Volume Boot Record (VBR)
+D: The CMOS memory
+Answer: C
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which key should be pressed during the boot process to open the Windows Advanced Boot Options menu in Windows 7?
+A: F8
+B: Shift
+C: F12
+D: Esc
+Answer: A
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: In the context of disk management, what does formatting create on a partition to enable file storage?
+A: Logical drive
+B: Extended partition
+C: File system
+D: Master Boot Record
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which file system is specifically designed for handling files larger than 4 GB on USB flash drives?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a method for performing a custom installation of Windows?
+A: Network Installation
+B: Disk Cloning
+C: Unattended Installation
+D: In-place upgrade
+Answer: D
+Page: 27-33
+Source: OSE_CH10.xlsx
+
+Q: Which type of disk in Windows can create volumes that span across multiple physical disks?
+A: Basic Disk
+B: Dynamic Disk
+C: Extended Partition
+D: Logical Drive
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: When a technician is recommending an operating system for a customer using customized applications, who should specify the appropriate OS?
+A: The technician
+B: The application programmer
+C: The customer
+D: Microsoft
+Answer: B
+Page: 8
+Source: OSE_CH10.xlsx
+
+Q: What is the function of the boot loader contained within the Master Boot Record?
+A: It identifies the Volume Boot Record
+B: It allows the user to choose from multiple operating systems
+C: It loads the boot manager
+D: It prepares the hard drive to receive the operating system
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of using the System Image Manager (SIM) in a Windows Unattended installation?
+A: To perform a remote network installation
+B: To create the setup answer file
+C: To create a recovery partition
+D: To restore the computer to its original configuration
+Answer: B
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode allows users to troubleshoot Windows and its startup with limited functionality and many device drivers not loaded?
+A: Safe Mode
+B: Safe Mode with Networking
+C: Safe Mode with Command Prompt
+D: Last Known Good Configuration
+Answer: A
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: In Windows 8 and 10, which key should be held while selecting the Restart option in the Power menu to access startup settings?
+A: F8
+B: Shift
+C: Ctrl
+D: Windows key
+Answer: B
+Page: 36
+Source: OSE_CH10.xlsx
+
+Q: During the Windows boot sequence, what component is responsible for locating and reading the configuration settings stored in the CMOS memory?
+A: BIOS
+B: MBR
+C: Boot manager
+D: Windows Update
+Answer: A
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: A customer needs an operating system that allows multiple users to have individual accounts and work with programs simultaneously. Which operating system feature fulfills this requirement?
+A: Multithreading
+B: Multiprocessing
+C: Multi-user
+D: Multitasking
+Answer: C
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: Which of the following describes the process of creating an exact copy of a fully deployed operating system installation on a separate disk, often for rapid deployment on multiple computers?
+A: Disk partitioning
+B: Data migration
+C: Disk cloning
+D: Unattended Installation
+Answer: C
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: What Windows utility is used to identify and resolve device driver issues after a new operating system installation?
+A: Windows Update
+B: System Image Manager
+C: Device Manager
+D: Disk Management Utility
+Answer: C
+Page: 25
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode loads the configuration settings that were last used when Windows started successfully?
+A: Safe Mode
+B: Safe Mode with Networking
+C: Safe Mode with Command Prompt
+D: Last Known Good Configuration
+Answer: D
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: What is the special environment called that allows a client computer without an operating system to boot, connect to the network, and communicate with a server to begin a remote network installation?
+A: Remote Installation Services (RIS)
+B: Preboot eXecution Environment (PXE)
+C: System Image Manager (SIM)
+D: Windows Advanced Startup Options
+Answer: B
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: Which file system is commonly used by Windows XP and earlier operating systems, with a maximum partition size of 2 TB?
+A: NTFS
+B: FAT32
+C: exFAT
+D: CDFS
+Answer: B
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of an extended partition on an MBR disk?
+A: To allow more than four partitions
+B: To store and boot an OS
+C: To separate information for administrative purposes
+D: To create volumes that span across multiple disks
+Answer: A
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which Windows 10 account type allows users to run applications but restricts them from installing programs?
+A: Administrator
+B: Standard User
+C: Power User
+D: Guest
+Answer: B
+Page: 24
+Source: OSE_CH10.xlsx
+
+Q: Which tool allows an administrator to remove an undesirable setting that was accidentally included during a base operating system installation before creating the final image for disk cloning?
+A: Windows Easy Transfer
+B: PCmover Express
+C: System Preparation (Sysprep)
+D: User State Migration Tool (USMT)
+Answer: C
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: Which of the following methods completely erases the hard drive and requires all data to be backed up before installing a new version of Windows?
+A: In-place upgrade
+B: Clean install
+C: Unattended Network Installation
+D: Image-based Internal Partition Installation
+Answer: B
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: On a hard drive using the Master Boot Record (MBR) partitioning scheme, which partition is used to store and boot the operating system?
+A: Extended partition
+B: Logical drive
+C: Active partition
+D: Primary partition
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which operating system feature allows a computer to operate multiple applications at the same time?
+A: Multi-user
+B: Multitasking
+C: Multiprocessing
+D: Multithreading
+Answer: B
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the name of the command-line utility used to simplify user state migration when installing a new operating system?
+A: PCmover Express
+B: Windows Easy Transfer
+C: User State Migration Tool (USMT)
+D: System Preparation (Sysprep)
+Answer: C
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: In Windows 8 and 10, how do you access the Startup Settings menu to select a specific startup mode?
+A: By pressing F8 during the boot process
+B: By holding Shift and selecting Restart in the Power menu
+C: By going to Troubleshoot > Advanced options > Startup settings
+D: By running the `msconfig` command
+Answer: C
+Page: 36
+Source: OSE_CH10.xlsx
+
+Q: Which Windows version was specifically designed for use with PCs, tablets, embedded systems, and Internet of Things devices?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: D
+Page: 7
+Source: OSE_CH10.xlsx
+
+Q: What is the main advantage of using exFAT over FAT32, NTFS, and FAT when formatting USB flash drives?
+A: Supports partition sizes up to 2TB
+B: Can support files larger than 4GB
+C: Incorporates file system security features
+D: Allows file access over the network
+Answer: B
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which basic operating system function ensures that an application is located and loaded into the computer's RAM?
+A: Managing hardware interactions
+B: Creating a file structure on the hard drive
+C: Enabling user interaction with software/hardware
+D: Locating and loading applications into RAM
+Answer: D
+Page: 6
+Source: OSE_CH10.xlsx
+
+Q: What is the size, in bytes, of the Master Boot Record (MBR)?
+A: 2048
+B: 16384
+C: 512
+D: 4096
+Answer: C
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: What application does Microsoft provide to automatically download and install Windows 10 on computers running Windows 7 Service Pack 1 and Windows 8.1?
+A: Windows 10 Update Assistant
+B: Get Windows 10
+C: Create Windows 10 Installation Media Tool
+D: Windows 10 Upgrade Assistant
+Answer: B
+Page: 11
+Source: OSE_CH10.xlsx
+
+Q: What is the function of the unattended.bat file in a Windows Unattended Network Installation?
+A: Create a bootable USB drive
+B: Prepare the hard drive and install the OS from the server
+C: Create the setup answer file
+D: Run setup.exe with user options from the answer file
+Answer: B
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: What type of partition on a hard drive contains the operating system files and is typically the first partition?
+A: Logical drive
+B: Extended partition
+C: Primary partition
+D: Active partition
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which of the following operating system features allows the OS to break a program into smaller parts, loading them only when needed, and enabling different parts to run concurrently?
+A: Multiprocessing
+B: Multi-user
+C: Multithreading
+D: Multitasking
+Answer: C
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the name of the tool used for transferring files, folders, profiles, and applications from an older Windows PC to a Windows 10 PC?
+A: User State Migration Tool (USMT)
+B: System Preparation (Sysprep)
+C: PCmover Express
+D: Windows Easy Transfer
+Answer: C
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: Which Windows Startup Mode allows the user to troubleshoot Windows and its startup process with limited functionality by loading only essential drivers?
+A: Safe Mode with Command Prompt
+B: Safe Mode with Networking
+C: Last Known Good Configuration
+D: Safe Mode
+Answer: D
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a consideration when a technician is recommending an operating system for a customer?
+A: Budget constraints
+B: How the computer will be used
+C: Types of applications that will be installed
+D: Whether the customer prefers a graphical user interface (GUI) or command-line interface (CLI)
+Answer: D
+Page: 8
+Source: OSE_CH10.xlsx
+
+Q: Which partition scheme standard is commonly used on computers with BIOS-based firmware?
+A: GUID Partition Table (GPT)
+B: Master Boot Record (MBR)
+C: File Allocation Table 32-bit (FAT32)
+D: New Technology File System (NTFS)
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: In a Windows Unattended Network Installation, what tool is used to create the setup answer file that contains the user options?
+A: System Preparation (Sysprep)
+B: Remote Installation Services (RIS)
+C: Preboot Execution Environment (PXE)
+D: System Image Manager (SIM)
+Answer: D
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: What Windows utility allows a user to change boot order settings?
+A: CMOS
+B: BIOS
+C: Device Manager
+D: Windows Update
+Answer: B
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which Windows feature enables the operating system to support two or more CPUs?
+A: Multitasking
+B: Multithreading
+C: Multi-user
+D: Multiprocessing
+Answer: D
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: Which of the following statements about upgrading a 32-bit operating system is true?
+A: It can be upgraded to a 64-bit OS in-place.
+B: It can be upgraded to a 64-bit OS using a clean installation.
+C: It cannot be upgraded to a 64-bit OS.
+D: It can be upgraded to a 64-bit OS using the Windows 10 Update Assistant.
+Answer: C
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: What tool can be used to migrate data when switching from an old computer to a new computer?
+A: System Preparation (Sysprep)
+B: User State Migration Tool (USMT)
+C: Windows Easy Transfer
+D: PCmover Express
+Answer: C
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: Which file system offers file system security features and extended attributes, and theoretically supports partition sizes up to 16 exabytes?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: B
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of a logical drive?
+A: To store the boot loader.
+B: To contain the operating system files.
+C: To separate information for administrative purposes within an extended partition.
+D: To define the boot device priority.
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: During the boot sequence, what does the MBR identify that is responsible for loading the boot manager?
+A: CMOS memory
+B: Volume Boot Record (VBR)
+C: Boot device priority
+D: Globally Unique Identifier (GUID)
+Answer: B
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which of the following describes a hidden partition on the hard drive that contains an image used to restore the computer to its original configuration?
+A: Recovery partition
+B: Active partition
+C: Extended partition
+D: Logical drive
+Answer: A
+Page: 32
+Source: OSE_CH10.xlsx
+
+Q: What is the boot manager for Windows called?
+A: bootmgr.exe
+B: setup.exe
+C: ntoskrnl.exe
+D: winload.exe
+Answer: A
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which of the following statements regarding off-the-shelf applications and operating system compatibility is true?
+A: The OS programmer specifies a list of compatible applications.
+B: Compatible operating systems are listed on the application packaging.
+C: Off-the-shelf applications require a clean installation of a compatible OS.
+D: Off-the-shelf applications only run on Windows 10.
+Answer: B
+Page: 8
+Source: OSE_CH10.xlsx
+
+Q: A user needs to access the Windows Advanced Boot Options menu in Windows 7. What key should they press during the boot process?
+A: F12
+B: Shift
+C: F8
+D: Esc
+Answer: C
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which Windows feature allows a computer to run multiple virtual machines, simulating multiple independent computers on a single physical machine?
+A: Multitasking
+B: Multi-user
+C: Multithreading
+D: Multiprocessing
+Answer: D
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: Which of the following best describes a clean install of a Windows operating system?
+A: Updates the existing OS to a newer version.
+B: Reinstalls the OS while preserving user data and settings.
+C: Wipes the hard drive and installs a fresh copy of the OS.
+D: Installs the OS from a network share.
+Answer: C
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which Windows operating system introduced a user interface designed to unify the look and feel across desktops, laptops, mobile phones, and tablets?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: B
+Page: 7
+Source: OSE_CH10.xlsx
+
+Q: What is the maximum partition size supported by FAT32?
+A: 512 bytes
+B: 4 GB
+C: 2 TB
+D: 16 exabytes
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which of these custom installation options utilizes a pre-existing Windows image, typically hidden, to restore the computer to its factory default state?
+A: Network Installation
+B: Recovery Partition
+C: Image-based Internal Partition Installation
+D: Refresh Your PC
+Answer: C
+Page: 28
+Source: OSE_CH10.xlsx
+
+Q: If a computer has UEFI firmware, which partitioning scheme is typically used?
+A: Master Boot Record (MBR)
+B: Globally Unique Identifier (GUID) Partition Table (GPT)
+C: File Allocation Table, 32 bit (FAT32)
+D: New Technology File System (NTFS)
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: A technician needs to install Windows 10 on multiple computers with identical hardware. What method would be the most efficient to quickly deploy the OS and ensure consistency?
+A: Performing a clean install on each computer.
+B: Upgrading each computer individually using the Windows 10 Update Assistant.
+C: Using the System Image Manager (SIM) to create an unattended installation.
+D: Creating a disk clone of a fully deployed base system.
+Answer: D
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode enables networking capabilities for troubleshooting purposes?
+A: Last Known Good Configuration
+B: Safe Mode
+C: Safe Mode with Networking
+D: Safe Mode with Command Prompt
+Answer: C
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: What is the primary function of the operating system (OS)?
+A: Manage interaction between user and computer.
+B: Store user data and files.
+C: Facilitate communication between software applications.
+D: Provide a platform for running video games.
+Answer: A
+Page: 6
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is a disadvantage of using a clean install method when upgrading to a new version of Windows?
+A: All data, settings, applications, and drivers are preserved.
+B: It takes more time to perform than an in-place upgrade.
+C: It requires backing up all data before the installation.
+D: It cannot be used to upgrade from a 32-bit OS to a 64-bit OS.
+Answer: C
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which type of disk, in Windows, is capable of creating volumes that span across multiple physical disks?
+A: Basic disk
+B: Extended partition
+C: Dynamic disk
+D: Logical drive
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: What is the name of the section within the Master Boot Record (MBR) that contains information about the location of the operating system on the hard drive?
+A: Boot sector
+B: Volume Boot Record (VBR)
+C: Boot loader
+D: Globally Unique Identifier (GUID)
+Answer: B
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which of the following file systems is a network-based file system that allows access to files over a network?
+A: CDFS
+B: exFAT
+C: NTFS
+D: NFS
+Answer: D
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which Windows installation method involves storing the OS installation files on a server and allowing client computers to access these files remotely to install the OS?
+A: Image-based Internal Partition Installation
+B: Remote Network Installation
+C: Unattended Network Installation
+D: Disk Cloning
+Answer: B
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: A user is experiencing boot problems with their Windows 8.1 computer. Which of the following options is NOT a valid way to access the Startup Settings menu in this version of Windows?
+A: Holding the Shift key and selecting Restart in the Power menu
+B: Using the F8 key during the boot process
+C: Selecting Troubleshoot > Advanced options > Startup settings in the boot menu
+D: Using the Windows 10 Update Assistant
+Answer: D
+Page: 36
+Source: OSE_CH10.xlsx
+
+Q: Which type of Windows account has limited control over the computer and can run applications but cannot install programs?
+A: Administrator
+B: Guest
+C: Power User
+D: Standard User
+Answer: D
+Page: 24
+Source: OSE_CH10.xlsx
+
+Q: You are setting up a multi-boot system on a computer with UEFI firmware. Which partitioning scheme should you use?
+A: Master Boot Record (MBR)
+B: Globally Unique Identifier (GUID) Partition Table (GPT)
+C: File Allocation Table, 32 bit (FAT32)
+D: New Technology File System (NTFS)
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: What is the main difference between a basic disk and a dynamic disk in Windows?
+A: Basic disks are faster for data access.
+B: Dynamic disks allow for creating volumes spanning multiple disks.
+C: Basic disks support more file systems.
+D: Dynamic disks are used for older versions of Windows.
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which Windows upgrade method updates the OS and keeps the existing data, settings, applications, and drivers?
+A: Clean install
+B: Remote Network Installation
+C: In-place upgrade
+D: Unattended Installation
+Answer: C
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which statement accurately describes the relationship between the Master Boot Record (MBR) and the boot loader?
+A: The MBR replaces the boot loader in modern systems.
+B: The MBR is a type of boot loader.
+C: The MBR contains the boot loader.
+D: The MBR and the boot loader are unrelated.
+Answer: C
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: Which Windows 10 feature allows the operating system to dedicate processing power to specific tasks by utilizing multiple physical CPU cores simultaneously?
+A: Multitasking
+B: Multithreading
+C: Multi-user
+D: Multiprocessing
+Answer: D
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of the "Last Known Good Configuration" startup option in Windows 7?
+A: Boots Windows with minimal drivers loaded.
+B: Boots Windows with the configuration from the last successful boot.
+C: Boots Windows in a command-line interface only.
+D: Boots Windows with networking support enabled.
+Answer: B
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which file system is primarily used for formatting optical disk media?
+A: FAT32
+B: NTFS
+C: CDFS
+D: exFAT
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which of the following terms refers to the ability of an operating system to run multiple applications simultaneously?
+A: Multi-user
+B: Multiprocessing
+C: Multitasking
+D: Multithreading
+Answer: C
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: A user wants to dual-boot Windows 10 and Linux on their computer. What component is responsible for allowing the user to choose which operating system to boot?
+A: Boot loader
+B: BIOS
+C: Volume Boot Record (VBR)
+D: Master Boot Record (MBR)
+Answer: A
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: Which Windows utility is used to view and manage hard drive partitions and logical drives?
+A: Device Manager
+B: Disk Management Utility
+C: Windows Update
+D: System Image Manager (SIM)
+Answer: B
+Page: 2-3,15
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of using the `unattended.bat` file on the client machine in a Windows Unattended Network Installation?
+A: To create the setup answer file.
+B: To create a boot disk.
+C: To prepare the hard drive and install the OS from the server.
+D: To run `setup.exe` with user options from the answer file.
+Answer: C
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: What is the recommended tool for upgrading Windows 7 or Windows 8 to Windows 10?
+A: Windows 10 Update Assistant
+B: Create Windows 10 Installation Media Tool
+C: Get Windows 10
+D: System Center Configuration Manager (Configuration Manager)
+Answer: A
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a function of a modern operating system?
+A: Booting the computer.
+B: Managing interaction between applications and hardware.
+C: Formatting a USB drive with a file system.
+D: Managing the file system.
+Answer: C
+Page: 5-6
+Source: OSE_CH10.xlsx
+
+Q: A technician needs to install Windows on a computer with a UEFI firmware. Which partition table scheme is most likely to be used on this computer?
+A: Master Boot Record (MBR)
+B: Globally Unique Identifier (GUID) Partition Table (GPT)
+C: File Allocation Table, 32 bit (FAT32)
+D: New Technology File System (NTFS)
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: When installing an OS on multiple computers, what is the name of the process of copying a fully deployed OS from one disk to another, sector by sector?
+A: Remote Network Installation
+B: Image-based Internal Partition Installation
+C: Disk Cloning
+D: Unattended Installation
+Answer: C
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: Which Windows operating system update introduced the "Get Windows 10" application that facilitated upgrades from previous versions?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: D
+Page: 11
+Source: OSE_CH10.xlsx
+
+Q: During the Windows boot sequence, what is the function of the CMOS memory?
+A: It stores the operating system files.
+B: It contains the boot loader.
+C: It holds the BIOS configuration settings.
+D: It manages the interaction between applications and hardware.
+Answer: C
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of formatting a partition or logical drive?
+A: To create a file system for storing data.
+B: To divide the hard drive into multiple sections.
+C: To install the boot loader.
+D: To erase all data on the hard drive.
+Answer: A
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which Windows feature allows a single program to be divided into smaller parts that can be loaded and executed independently, improving performance?
+A: Multi-user
+B: Multiprocessing
+C: Multithreading
+D: Multitasking
+Answer: C
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a valid method for upgrading a computer to Windows 10?
+A: Using the Windows 10 Update Assistant.
+B: Performing a clean install.
+C: Upgrading in-place from a compatible previous version.
+D: Upgrading directly from Windows XP.
+Answer: D
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: What is the primary function of the Windows Device Manager?
+A: To manage user accounts and permissions.
+B: To monitor and control the boot order of devices.
+C: To view and manage installed hardware devices and their drivers.
+D: To create, delete, and format partitions on the hard drive.
+Answer: C
+Page: 25
+Source: OSE_CH10.xlsx
+
+Q: Which file system is most suitable for a hard drive used in a modern Windows 10 computer?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: B
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: A customer wants to install a new operating system on their computer, but they are concerned about losing their personal files. What should the technician advise them to do?
+A: Format the hard drive before installing the OS.
+B: Install the new OS without formatting the hard drive.
+C: Migrate their personal files to an external drive or cloud storage.
+D: Ignore the concern, as files are automatically backed up during installation.
+Answer: C
+Page: 13, 33
+Source: OSE_CH10.xlsx
+
+Q: What is the main difference between Safe Mode and Safe Mode with Networking?
+A: Safe Mode starts Windows with a graphical user interface, while Safe Mode with Networking starts in command-line mode.
+B: Safe Mode with Networking includes networking drivers, while Safe Mode does not.
+C: Safe Mode with Networking loads more drivers than Safe Mode.
+D: There is no difference; they are the same startup mode.
+Answer: B
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which of the following custom installation methods utilizes a hidden partition on the hard drive to restore the system to its factory default state?
+A: Unattended Installation
+B: Disk Cloning
+C: Image-based Internal Partition Installation
+D: Remote Network Installation
+Answer: C
+Page: 28
+Source: OSE_CH10.xlsx
+
+Q: Which Windows feature enables the operating system to divide a single program into smaller components that can be loaded and executed concurrently?
+A: Multi-user
+B: Multiprocessing
+C: Multithreading
+D: Multitasking
+Answer: C
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the maximum number of primary partitions allowed on a hard disk using the Master Boot Record (MBR) partitioning scheme?
+A: 2
+B: 4
+C: 16
+D: Unlimited
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which Windows operating system first incorporated the "Metro" user interface?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: B
+Page: 7
+Source: OSE_CH10.xlsx
+
+Q: Which file system is designed to address limitations of other file systems when formatting large capacity USB flash drives?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: A technician is tasked with upgrading a large number of computers from Windows 7 to Windows 10. Which upgrade method offers the most automation and efficiency?
+A: Disk cloning
+B: In-place upgrade using System Center Configuration Manager
+C: Clean install using the Create Windows 10 Installation Media Tool.
+D: Unattended Network Installation
+Answer: B
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which Windows installation method requires running the `setup.exe` file with pre-configured user options specified in an answer file?
+A: Remote Network Installation
+B: Unattended Network Installation
+C: Image-based Internal Partition Installation
+D: Disk Cloning
+Answer: B
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: What is the function of the BIOS in the Windows boot sequence?
+A: It loads the operating system kernel into memory.
+B: It locates and reads the boot loader from the bootable device.
+C: It manages the interaction between the applications and the hardware.
+D: It provides a user interface for choosing the operating system to boot.
+Answer: B
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: Which tool is used to create a sector-by-sector copy of a hard drive, allowing for rapid deployment of a fully configured operating system on multiple computers?
+A: System Image Manager (SIM)
+B: Disk Cloning
+C: User State Migration Tool (USMT)
+D: Windows Easy Transfer
+Answer: B
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: What is the key difference between a primary partition and an extended partition on a hard drive using the MBR partitioning scheme?
+A: Only the primary partition can contain the operating system files.
+B: The extended partition can be subdivided into logical drives.
+C: The primary partition is always the first partition on the hard drive.
+D: Only the extended partition can be formatted with a file system.
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: What is the recommended file system for formatting a USB flash drive that needs to store files larger than 4 GB and be compatible with both Windows and macOS?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: When upgrading to Windows 10, which earlier Windows versions require a clean install due to the lack of a direct upgrade path?
+A: Windows 7 and Windows 8
+B: Windows Vista and Windows XP
+C: Windows 8 and Windows 8.1
+D: Windows 7 and Windows Vista
+Answer: B
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a basic function of an operating system (OS)?
+A: Managing the file system
+B: Enabling user interaction with software and hardware
+C: Locating and loading applications into RAM
+D: Providing anti-virus protection
+Answer: D
+Page: 6
+Source: OSE_CH10.xlsx
+
+Q: What is the role of the boot loader in the Windows boot process?
+A: It manages the interaction between applications and the hardware.
+B: It locates and executes the operating system kernel.
+C: It displays the graphical user interface (GUI).
+D: It creates the file structure on the hard disk drive.
+Answer: B
+Page: 16
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode starts the OS with minimal drivers loaded, making it suitable for troubleshooting driver-related issues?
+A: Last Known Good Configuration
+B: Safe Mode with Networking
+C: Safe Mode
+D: Safe Mode with Command Prompt
+Answer: C
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: You need to create a partition larger than 2 TB on a Windows computer. Which file system would BEST support this?
+A: FAT32
+B: CDFS
+C: NTFS
+D: exFAT
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What is the correct sequence of events in a typical Windows boot process?
+A: POST > CMOS > MBR > Boot Manager > OS Kernel
+B: CMOS > POST > Boot Manager > MBR > OS Kernel
+C: POST > MBR > CMOS > OS Kernel > Boot Manager
+D: MBR > POST > Boot Manager > CMOS > OS Kernel
+Answer: A
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: What is the maximum theoretical size of a partition formatted with NTFS?
+A: 2 TB
+B: 4 GB
+C: 16 Exabytes
+D: 512 Bytes
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of the System Preparation (Sysprep) tool in the context of disk cloning?
+A: To migrate user data from the old OS to the cloned OS.
+B: To remove undesirable settings from the base OS installation before creating the final image.
+C: To create a bootable USB drive for deploying the cloned OS.
+D: To customize the answer file for an unattended installation.
+Answer: B
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a valid reason for creating separate partitions on a hard drive?
+A: To install multiple operating systems.
+B: To organize data and applications into separate logical drives.
+C: To improve the read/write speed of the hard drive by physically separating data.
+D: To allow for easier backup and recovery of specific data sets.
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: A technician needs to install a Windows operating system on a client computer remotely over the network. Which technology is essential for booting the client computer in this scenario?
+A: Preboot eXecution Environment (PXE)
+B: Dynamic Host Configuration Protocol (DHCP)
+C: Domain Name System (DNS)
+D: Simple Mail Transfer Protocol (SMTP)
+Answer: A
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: Which statement about the Windows 10 Update Assistant is TRUE?
+A: It is used for migrating user data between computers.
+B: It requires a pre-existing installation of Windows 10.
+C: It is only available for computers running Windows 8.1.
+D: It guides users through the Windows 10 upgrade process.
+Answer: D
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: What is the function of the "Safe Mode with Command Prompt" startup option in Windows 7?
+A: Boots Windows with networking enabled but without a graphical interface.
+B: Boots Windows with only essential drivers and a command-line interface.
+C: Boots Windows with the last known good configuration settings.
+D: Boots Windows with support for older hardware and software.
+Answer: B
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which of the following BEST describes the difference between multitasking and multithreading?
+A: Multitasking allows multiple users to use the computer simultaneously, while multithreading allows a single user to run multiple programs.
+B: Multitasking allows a single user to run multiple programs, while multithreading allows a single program to be divided into multiple threads of execution.
+C: Multitasking requires multiple CPU cores, while multithreading can run on a single core.
+D: There is no difference; multitasking and multithreading are synonymous.
+Answer: B
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of creating a logical drive within an extended partition?
+A: To install a separate operating system.
+B: To improve hard drive performance.
+C: To store the boot loader.
+D: To segregate data for administrative purposes.
+Answer: D
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which two legacy Windows operating systems are NOT eligible for a direct upgrade path to Windows 10?
+A: Windows 7 and Windows 8
+B: Windows Vista and Windows XP
+C: Windows 8 and Windows 8.1
+D: Windows XP and Windows 7
+Answer: B
+Page: 12
+Source: OSE_CH10.xlsx
+
+Q: Which file system is typically used for hard drives on older Windows systems like Windows XP?
+A: NTFS
+B: exFAT
+C: FAT32
+D: CDFS
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: A user wants to access Safe Mode with Networking on a Windows 10 computer. How can they achieve this?
+A: Press F8 repeatedly during startup.
+B: Hold Shift while clicking the Restart option in the Power menu.
+C: Access the BIOS settings and change the boot order.
+D: Run the `msconfig` utility and select the Safe Mode with Networking option.
+Answer: B
+Page: 36
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is a command-line utility used for migrating user data during a Windows upgrade or reinstallation?
+A: System Image Manager (SIM)
+B: Disk Management Utility
+C: User State Migration Tool (USMT)
+D: PCmover Express
+Answer: C
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: Which of the following statements about a dynamic disk is TRUE?
+A: It is the default disk type in Windows.
+B: It can be used to create fault-tolerant volumes.
+C: It is only compatible with older versions of Windows.
+D: It cannot contain extended partitions.
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which two Windows features are designed to maximize the utilization of a computer's processor resources by allowing for parallel execution?
+A: Multi-user and Multiprocessing
+B: Multiprocessing and Multithreading
+C: Multitasking and Multi-user
+D: Multitasking and Multithreading
+Answer: B
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: What is the purpose of an extended partition in the MBR partitioning scheme?
+A: To allow for more than four partitions on a hard drive.
+B: To designate the active partition for booting the operating system.
+C: To store and boot multiple operating systems on the same hard drive.
+D: To create a separate partition for user data and applications.
+Answer: A
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: During a Windows installation, which type of user account has unrestricted access and control over the computer?
+A: Standard User
+B: Guest
+C: Power User
+D: Administrator
+Answer: D
+Page: 24
+Source: OSE_CH10.xlsx
+
+Q: Which file system is specifically designed for optical media like CDs and DVDs?
+A: NTFS
+B: exFAT
+C: CDFS
+D: FAT32
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which of the following statements about disk cloning is FALSE?
+A: It involves creating an exact copy of a hard drive.
+B: It can be used to deploy an operating system on multiple computers.
+C: It requires the use of specialized software.
+D: It can be used to create a backup of a hard drive.
+Answer: D
+Page: 27
+Source: OSE_CH10.xlsx
+
+Q: You are troubleshooting a Windows 7 computer that is failing to boot. You want to try booting into Safe Mode with Networking. Which key should you press during startup?
+A: F12
+B: Esc
+C: F8
+D: Delete
+Answer: C
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: During the Windows boot sequence, what is the purpose of the boot manager (`bootmgr.exe`)?
+A: To locate and load the operating system kernel.
+B: To check the hardware components of the computer.
+C: To initialize the BIOS and run the Power-On Self-Test (POST).
+D: To manage the user accounts and login process.
+Answer: A
+Page: 34
+Source: OSE_CH10.xlsx
+
+Q: A user is having trouble booting their Windows 8 computer and needs to access the Startup Settings menu. What should they do?
+A: Press and hold the F8 key during startup.
+B: Press and hold the Shift key while selecting the Restart option.
+C: Access the BIOS settings and enable the Safe Mode option.
+D: Run the "msconfig" command and select the "Boot" tab.
+Answer: B
+Page: 36
+Source: OSE_CH10.xlsx
+
+Q: Which of the following operating system features allows two or more users to have individual accounts and work on the computer simultaneously?
+A: Multiprocessing
+B: Multi-user
+C: Multitasking
+D: Multithreading
+Answer: B
+Page: 5
+Source: OSE_CH10.xlsx
+
+Q: You want to create a partition on a hard drive for installing a Linux distribution alongside your existing Windows installation. Which file system is the most appropriate for this partition?
+A: NTFS
+B: FAT32
+C: exFAT
+D: CDFS
+Answer: A
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: Which tool is designed for migrating user profiles, data, and settings when transferring data from an older Windows computer to a new one running Windows 10?
+A: User State Migration Tool (USMT)
+B: System Preparation (Sysprep)
+C: PCmover Express
+D: Windows Easy Transfer
+Answer: D
+Page: 13
+Source: OSE_CH10.xlsx
+
+Q: What is a key characteristic of a dynamic disk in Windows?
+A: It cannot be subdivided into logical drives.
+B: It stores the boot loader for the operating system.
+C: It is formatted with the FAT32 file system by default.
+D: It can create volumes that span across multiple physical disks.
+Answer: D
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which tool allows administrators to automate the in-place upgrade process to Windows 10?
+A: System Image Manager (SIM)
+B: System Center Configuration Manager (Configuration Manager)
+C: Windows 10 Update Assistant
+D: User State Migration Tool (USMT)
+Answer: B
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a valid Windows startup mode?
+A: Safe Mode with Networking
+B: Safe Mode with Command Prompt
+C: Last Known Good Configuration
+D: System Restore
+Answer: D
+Page: 35-36
+Source: OSE_CH10.xlsx
+
+Q: Which of the following file systems would be the BEST choice for formatting a high-capacity external hard drive used for storing large media files?
+A: FAT32
+B: NTFS
+C: exFAT
+D: CDFS
+Answer: C
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: A technician is preparing to install a new operating system on a computer. Which of the following tasks should be completed BEFORE beginning the installation?
+A: Creating a new partition on the hard drive.
+B: Backing up important data.
+C: Installing the latest device drivers.
+D: Configuring the BIOS boot order.
+Answer: B
+Page: 13, 33
+Source: OSE_CH10.xlsx
+
+Q: What is the function of the Microsoft Windows Update service?
+A: To manage user accounts and privileges.
+B: To create and manage hard drive partitions.
+C: To scan for and install new software, service packs, and patches.
+D: To display a list of available boot devices.
+Answer: C
+Page: 25
+Source: OSE_CH10.xlsx
+
+Q: What is the maximum number of partitions that can be created on a hard drive using the Master Boot Record (MBR) partitioning scheme?
+A: 2
+B: 4
+C: 16
+D: Unlimited
+Answer: B
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which of the following statements BEST describes the "Safe Mode" startup option in Windows?
+A: It allows users to choose from multiple operating systems.
+B: It starts Windows with networking support enabled.
+C: It loads Windows with a command-line interface instead of the GUI.
+D: It starts Windows with only essential drivers and services loaded.
+Answer: D
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which tool is used in an Unattended Network Installation to configure a customized Windows installation without user input during the installation process?
+A: User State Migration Tool (USMT)
+B: System Image Manager (SIM)
+C: Windows 10 Update Assistant
+D: Disk Management Utility
+Answer: B
+Page: 30
+Source: OSE_CH10.xlsx
+
+Q: Which of the following file systems is NOT compatible with Windows operating systems?
+A: NTFS
+B: exFAT
+C: CDFS
+D: NFS
+Answer: D
+Page: 18
+Source: OSE_CH10.xlsx
+
+Q: What is a key difference between an in-place upgrade and a clean install when upgrading to Windows 10?
+A: A clean install requires the user to manually migrate data and settings.
+B: An in-place upgrade preserves existing data, settings, and applications.
+C: A clean install allows for upgrading from a 32-bit OS to a 64-bit OS.
+D: An in-place upgrade requires formatting the hard drive.
+Answer: B
+Page: 33
+Source: OSE_CH10.xlsx
+
+Q: Which partition type is required to create logical drives on an MBR disk?
+A: Primary partition
+B: Active partition
+C: Extended partition
+D: Recovery partition
+Answer: C
+Page: 17
+Source: OSE_CH10.xlsx
+
+Q: Which of the following is NOT a typical consideration when a technician is making an operating system recommendation for a customer?
+A: Customer's budget
+B: How the computer will be used
+C: Minimum hardware requirements of the OS
+D: User interface preference (GUI vs. CLI)
+Answer: D
+Page: 8
+Source: OSE_CH10.xlsx
+
+Q: What is the name of the special environment that allows a client computer without an operating system to boot and connect to a network for a remote network installation?
+A: System Image Manager (SIM)
+B: Preboot eXecution Environment (PXE)
+C: Remote Installation Services (RIS)
+D: Dynamic Host Configuration Protocol (DHCP)
+Answer: B
+Page: 29
+Source: OSE_CH10.xlsx
+
+Q: Which Windows startup mode loads the operating system with a minimal set of drivers and services, often used for troubleshooting system problems?
+A: Safe Mode
+B: Last Known Good Configuration
+C: Safe Mode with Networking
+D: Safe Mode with Command Prompt
+Answer: A
+Page: 35
+Source: OSE_CH10.xlsx
+
+Q: Which Windows version introduced the Microsoft Edge web browser?
+A: Windows 7
+B: Windows 8
+C: Windows 8.1
+D: Windows 10
+Answer: D
+Page: 12
+Source: OSE_CH11.xlsx
+
+Q: What is the maximum number of characters allowed in a Windows filename?
+A: 128
+B: 255
+C: 512
+D: 1024
+Answer: B
+Page: 34
+Source: OSE_CH11.xlsx
+
+Q: Which Windows power option saves the state of the OS to RAM, allowing for quick power on?
+A: Do nothing
+B: Sleep
+C: Hibernate
+D: Shut down
+Answer: B
+Page: 61
+Source: OSE_CH11.xlsx
+
+Q: Which Windows Event Viewer log level indicates a problem that requires immediate attention?
+A: Information
+B: Warning
+C: Error
+D: Critical
+Answer: D
+Page: 83
+Source: OSE_CH11.xlsx
+
+Q: Which CLI command would you use to check a disk for file system errors?
+A: `format`
+B: `diskpart`
+C: `chkdsk`
+D: `sfc`
+Answer: C
+Page: 127
+Source: OSE_CH11.xlsx
+
+Q: In newer versions of Windows 10, what network sharing functionality has been removed?
+A: Workgroup
+B: Domain
+C: Homegroup
+D: Public network
+Answer: C
+Page: 136
+Source: OSE_CH11.xlsx
+
+Q: What file extension is commonly associated with Microsoft Silent Installer packages?
+A: `.EXE`
+B: `.MSI`
+C: `.DLL`
+D: `.SYS`
+Answer: B
+Page: 109
+Source: OSE_CH11.xlsx
+
+Q: What is the default User Account Control (UAC) setting for the primary account in Windows?
+A: Always notify
+B: Notify only when programs try to make changes
+C: Never notify
+D: Notify only for administrator actions
+Answer: B
+Page: 46
+Source: OSE_CH11.xlsx
+
+Q: Which wildcard character in Windows CLI commands matches any single character?
+A: `$`
+B: `#`
+C: `*`
+D: `?`
+Answer: D
+Page: 120
+Source: OSE_CH11.xlsx
+
+Q: Which Windows network profile disables file and printer sharing and network discovery?
+A: Private
+B: Public
+C: Work
+D: Domain
+Answer: B
+Page: 146
+Source: OSE_CH11.xlsx
+
+Q: Which Windows utility can be used to view the history of application, security, and system events?
+A: Task Manager
+B: Performance Monitor
+C: Event Viewer
+D: System Configuration
+Answer: C
+Page: 82
+Source: OSE_CH11.xlsx
+
+Q: What is the function of the 'Peek' feature in Windows 7 and above?
+A: Minimizes all unused windows
+B: Resizes a window by dragging it to the screen edge
+C: Displays desktop icons behind open windows
+D: Displays a preview of the taskbar
+Answer: C
+Page: 13
+Source: OSE_CH11.xlsx
+
+Q: Which Windows utility allows you to manage services running on your computer?
+A: Task Manager
+B: Event Viewer
+C: Services Console
+D: Performance Monitor
+Answer: C
+Page: 87
+Source: OSE_CH11.xlsx
+
+Q: What is the name of the disk array technology recommended by Windows 8 and 10?
+A: RAID 0
+B: Spanned Volumes
+C: Storage Spaces
+D: Dynamic Disks
+Answer: C
+Page: 103
+Source: OSE_CH11.xlsx
+
+Q: On a Windows network, what character identifies an administrative share?
+A: `@`
+B: `#`
+C: `$`
+D: `%`
+Answer: C
+Page: 139
+Source: OSE_CH11.xlsx
+
+Q: What is the maximum number of characters allowed in a Windows file path?
+A: 128
+B: 255
+C: 260
+D: 512
+Answer: C
+Page: 33
+Source: OSE_CH11.xlsx
+
+Q: Which Windows CLI command displays basic IP configuration information for all network adapters?
+A: `ping`
+B: `tracert`
+C: `nslookup`
+D: `ipconfig`
+Answer: D
+Page: 148
+Source: OSE_CH11.xlsx
+
+Q: What is the purpose of the Windows `System Restore` utility?
+A: Backs up all files on the hard drive
+B: Creates a complete image of the operating system
+C: Rolls back the system to a previous configuration
+D: Defragments the hard drive and optimizes file storage
+Answer: C
+Page: 164
+Source: OSE_CH11.xlsx
+
+Q: What is the name of the encrypted alternative to Telnet?
+A: FTP
+B: SFTP
+C: SSL
+D: SSH
+Answer: D
+Page: 154
+Source: OSE_CH11.xlsx
+
+Q: What Windows utility allows you to create, change, and delete user accounts?
+A: User Accounts Control Panel
+B: Network and Sharing Center
+C: Credential Manager
+D: Local Users and Groups
+Answer: A
+Page: 45
+Source: OSE_CH11.xlsx
+
+Q: Which Windows CLI command is used to display a list of currently running processes?
+A: `taskkill`
+B: `tasklist`
+C: `netstat`
+D: `dir`
+Answer: B
+Page: 129
+Source: OSE_CH11.xlsx
+
+Q: Which of the following best describes a Windows domain?
+A: A group of computers on a home network
+B: A standalone computer not connected to a network
+C: A collection of workstations on a LAN with individual security control
+D: A centrally administered group of computers and devices with common rules
+Answer: D
+Page: 135
+Source: OSE_CH11.xlsx
+
+Q: Which Windows feature allows you to resize a window by dragging it to one of the screen edges?
+A: Shake
+B: Peek
+C: Snap
+D: Aero
+Answer: C
+Page: 13
+Source: OSE_CH11.xlsx
+
+Q: What is the name of the default theme in Windows 7?
+A: Classic
+B: Basic
+C: Luna
+D: Aero
+Answer: D
+Page: 13
+Source: OSE_CH11.xlsx
+
+Q: What type of disk is referred to as a "foreign" disk in the Windows Disk Management utility?
+A: A newly installed hard drive
+B: A failing hard drive
+C: A dynamic disk moved from another Windows computer
+D: A read-only external hard drive
+Answer: C
+Page: 101
+Source: OSE_CH11.xlsx
+
+Q: What is the function of the Windows `ReadyBoost` feature?
+A: Enhances system performance by using an external flash drive as virtual memory
+B: Defragments the hard drive and optimizes file storage
+C: Creates a restore point to roll back the system
+D: Scans the hard disk for physical errors
+Answer: A
+Page: 64
+Source: OSE_CH11.xlsx
+
+Q: Which Windows utility allows you to view and manage stored website and application passwords?
+A: User Accounts
+B: Credential Manager
+C: Sync Center
+D: Internet Options
+Answer: B
+Page: 48
+Source: OSE_CH11.xlsx
+
+Q: Which Windows CLI command sends the output of another command to a file?
+A: `type`
+B: `more`
+C: `>`
+D: `<`
+Answer: C
+Page: 125
+Source: OSE_CH11.xlsx
+
+Q: What does the file attribute 'R' indicate in Windows?
+A: The file is ready for backup
+B: The file is read-only
+C: The file is a system file
+D: The file is hidden
+Answer: B
+Page: 36
+Source: OSE_CH11.xlsx
+
+Q: What is the function of the Windows `Disk Error-Checking` tool?
+A: Creates a new file system on a disk
+B: Checks a file system and disk surface for errors
+C: Starts a command interpreter for disk partitions
+D: Extends or shrinks existing partitions
+Answer: B
+Page: 105
+Source: OSE_CH11.xlsx
